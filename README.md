@@ -12,4 +12,4 @@ OpenAudit leverages advances in optical character recognition, NLP, and machine 
 
 ## Data for this beta version
 
-For the pilot phase of OpenAudit, the team has been provided digital copies of all the Philippines' (Commission on Audit)[https://www.coa.gov.ph/] audit reports from 1998 to 2022 which are now undergoing processing. 
+For the pilot phase of OpenAudit, the team has been provided digital copies of all the Philippines' [Commission on Audit](https://www.coa.gov.ph/) audit reports from 1998 to 2022. Due to  
