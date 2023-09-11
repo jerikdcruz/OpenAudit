@@ -1,4 +1,4 @@
-# OpenAudit: advancing governance research and engagement with NLP-processed audit reports
+# OpenAudit: advancing governance research and accountability with NLP-processed audit reports
 
 ## About the repository
 
