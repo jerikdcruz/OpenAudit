@@ -16,3 +16,5 @@ For the pilot phase of OpenAudit, the team has been provided digital copies of a
 
 In all, we use 17,392 audit reports executive summaries spanning the universe of Philippine local governments for 2010-2020. Within these executive summaries, we zero-in on the "Audit Findings and Recommendations" sections, as these summarize the main issues flagged by auditors in their assessments of agencies' public finances. 
 
+## Navigating the repository
+
