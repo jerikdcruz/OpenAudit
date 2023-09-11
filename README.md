@@ -1,4 +1,4 @@
-# OpenAudit
+# OpenAudit: advancing governance research and engagement with NLP-processed audit reports
 
 ## About the repository
 
@@ -12,7 +12,7 @@ OpenAudit leverages advances in optical character recognition, NLP, and machine 
 
 ## Data for this beta version
 
-For the pilot phase of OpenAudit, the team has been provided digital copies of all COA audit reports from 1998 to 2022. While this bigger corpus of reports is undergoing processing, this beta version of OpenAudit showcases what can be learned from these reports by focusing on the executive summaries of audit reports for Philippine local governments. Like the audit reports themselves, these executive summaries are fairly standardized in what they report, having sections dedicated to financial and operational highlights, auditors' opinions on financial statements, audit findings and recommendations, and government units' progress on implementing on the past year's audit recommendations. We randomly-selected executive summary of [Babatngon municipality](https://www.coa.gov.ph/download/3322/leyte/42439/babatngon-executive-summary-2015.pdf) in Leyte province for 2015 provides an illustrative example of the information that is conveyed by such documents. 
+For the pilot phase of OpenAudit, the team has been provided digital copies of all COA audit reports from 1998 to 2022. While this bigger corpus of reports is undergoing processing, this beta version of OpenAudit showcases what can be learned from these reports by focusing on the executive summaries of audit reports for Philippine local governments. Like the audit reports themselves, these executive summaries are fairly standardized in what they report, having sections dedicated to financial and operational highlights, auditors' opinions on financial statements, audit findings and recommendations, and government units' progress on implementing on the past year's audit recommendations. The randomly-selected executive summary of [Babatngon municipality](https://www.coa.gov.ph/download/3322/leyte/42439/babatngon-executive-summary-2015.pdf) in Leyte province for 2015 provides an illustrative example of the information that is conveyed by such documents. 
 
 In all, we use 17,392 audit reports executive summaries spanning the universe of Philippine local governments for 2010-2020. Within these executive summaries, we zero-in on the "Audit Findings and Recommendations" sections, as these summarize the main issues flagged by auditors in their assessments of agencies' public finances. 
 
