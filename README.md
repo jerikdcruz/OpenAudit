@@ -31,6 +31,16 @@ The pilot phase of OpenAudit includes the following persons:
 
 We also gratefully acknowledge the past research assistance of Mr. Cymon Lubangco, who helped secure access to the reports and executive summaries showcased in this repository.
 
+## Future Repository Plans 
+
+Over the next few months, we intend to expand on this beta-version repository in the following directions: 
+
+* *Using the whole audit report as the data source:* we will extract and process data from the whole of the audit reports from 1998 to 2022, using large language models (currently under development), the processed results and pipeline of which will also be hosted on the repository
+* *Developing new governance measures:* beyond tracking corruption/anomalous transactions, we will develop broader indicators related to transparency, accountability, and service delivery capacity (especially in health-related services)
+* *Showcasing potential uses of dataset:* we will provide additional examples and replication materials of how the data can be used for both academic and policy research. Latter examples are likely to be drawn from prospective collaborations with the United Nations Development Program in the Philippines
+
+Over the course of 2024, we plan to develop a dedicated website for the dataset which will be housed with the Ateneo School of Government, and to engage in conversations to scale up the scope of the project beyond the Philippines. 
+
 ## Licensing
 
 All data released in this beta version has been taken from the Philippine [Commission on Audit's (COA)](https://www.coa.gov.ph/) audit reports, which are documents in the public domain. 
