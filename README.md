@@ -4,7 +4,7 @@
 
 This repository contains the beta version of OpenAudit, an open data initiative aiming to make publicly-available audit reports more tractable for use by researchers and public-interest audiences using NLP and machine learning methods. Here, we focus on a subset of these reports in terms of coverage and content to provide a proof-of-concept of the planned broader dataset and platform. 
 
-We thank the Philippine government's [Commission on Audit (COA)](https://www.coa.gov.ph/) for sharing the corpus of audit reports that made this project possible, as well as [MIT GOV/LAB](https://mitgovlab.org/) and [MIT Political Methodology Lab](https://pmlab.mit.edu/) for their financial support for the project to date.
+We thank the Philippine government's [Commission on Audit (COA)](https://www.coa.gov.ph/) for sharing the corpus of audit reports that made this project possible, as well as [MIT GOV/LAB](https://mitgovlab.org/) and [MIT Political Methodology Lab](https://pmlab.mit.edu/) for their generous financial support for this pilot version of the project.
 
 ## Background and Context
 
