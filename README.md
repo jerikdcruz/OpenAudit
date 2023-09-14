@@ -39,7 +39,7 @@ Over the next few months, we intend to expand on this beta-version repository in
 * *Developing new governance measures:* beyond tracking corruption/anomalous transactions, we will develop broader indicators related to transparency, accountability, and service delivery capacity (especially in health-related services)
 * *Showcasing potential uses of dataset:* we will provide additional examples and replication materials of how the data can be used by researchers. Latter examples are likely to be drawn from prospective collaborations with the United Nations Development Program in the Philippines
 
-Over the course of 2024, we plan to develop a dedicated website for the dataset which will be housed with the Ateneo School of Government, and to engage in conversations to scale up the scope of the project beyond the Philippines. 
+Over the course of 2024, we plan to develop a dedicated website for the dataset which will be housed with the Ateneo School of Government, and to engage in conversations to scale up the project's scope beyond the Philippines. 
 
 ## Licensing
 
