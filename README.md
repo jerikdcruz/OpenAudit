@@ -1,14 +1,16 @@
-# OpenAudit: advancing governance research and accountability with NLP-processed audit reports
+# OpenAudit: advancing governance research and accountability with natural language-processed audit reports
 
 ## About the repository
 
 This repository contains the beta version of OpenAudit, an open data initiative aiming to make publicly-available audit reports more tractable for use by researchers and public-interest audiences using NLP and machine learning methods. Here, we focus on a subset of these reports in terms of coverage and content to provide a proof-of-concept of the planned broader dataset and platform. 
 
+We thank the Philippine government's [Commission on Audit (COA)](https://www.coa.gov.ph/) for sharing the corpus of audit reports that made this project possible, as well as [MIT GOV/LAB](https://mitgovlab.org/) and [MIT Political Methodology Lab](https://pmlab.mit.edu/) for their financial support for the project to date.
+
 ## Background and Context
 
-In developing democracies around the world, government audit institutions regularly publish audit and financial reports that track government bodies’ decisions in raising, budgeting, spending, and managing public resources on behalf of their citizens. These publicly-available reports contain data of immense value to governance researchers and ordinary citizens; they potentially offer ways to track government decisions, processes, and behaviors related to corruption, accountability, and state capacity at levels of detail currently unavailable in commonly-used governance indicators. Until the present, however, generally remain underused by academics, policy researchers, and the general public alike. 
+In many developing democracies around the world, government audit institutions regularly publish audit and financial reports that track government bodies’ decisions in raising, spending, and managing public resources on behalf of their citizens. These publicly-available reports contain data of immense value to governance researchers and ordinary citizens; they potentially offer ways to track government decisions, processes, and behaviors related to corruption, accountability, and state capacity at levels of detail currently unavailable in commonly-used governance indicators. Until the present, however, generally remain underused by academics, policy researchers, and the general public alike. 
 
-Starting with the the universe of audit reports of the Philippine government's [Commission on Audit (COA)](https://www.coa.gov.ph/), OpenAudit leverages advances in optical character recognition, NLP, and machine learning techniques to make these audit reports more ready-for-use for these audiences as well as public-interest watchdogs and reformers. Apart from processing these reports into more structured datasets that will be showcased on dedicated platforms, the project establishes partnerships to ensure the validity of resulting data and its integration with ready user communities. 
+Starting with the the universe of audit reports of the , OpenAudit leverages advances in optical character recognition, NLP, and machine learning techniques to make these audit reports more ready-for-use for these audiences as well as public-interest watchdogs and reformers. Apart from processing these reports into more structured datasets that will be showcased on dedicated platforms, the project establishes partnerships to ensure the validity of resulting data and its integration with ready user communities. 
 
 ## Data for this beta version
 
