@@ -24,4 +24,9 @@ In all, we use 17,392 audit reports' executive summaries spanning the universe o
 
 The pilot phase of OpenAudit includes the following persons: 
 
- * *Project Leader:* Jerik Cruz, PhD candidate, MIT Department of Political Science and Graduate Research Associate, MIT GOV/LAB
+ * *Project Leader:* Jerik Cruz; PhD candidate, MIT Department of Political Science and Graduate Research Associate, MIT GOV/LAB
+ * *Project Partner:* Philip Arnold Tuaño, PhD; Dean, Ateneo School of Government
+ * *Project Adviser:* Heidi Mendoza, CPA, MPA, MNSA; Professor of Praxis, Ateneo School of Government
+ * *Project Research Assistant:* Rainier Mora; MA student, Department of Economics, Ateneo de Manila University
+
+We also gratefully acknowledge the past research assistance of Mr. Cymon Lubangco, who helped secure access to the reports and executive summaries showcased in this repository.
