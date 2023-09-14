@@ -30,3 +30,9 @@ The pilot phase of OpenAudit includes the following persons:
  * *Project Research Assistant:* Rainier Mora; MA student, Department of Economics, Ateneo de Manila University
 
 We also gratefully acknowledge the past research assistance of Mr. Cymon Lubangco, who helped secure access to the reports and executive summaries showcased in this repository.
+
+## Licensing
+
+All data released in this beta version has been taken from the Philippine [Commission on Audit's (COA)](https://www.coa.gov.ph/) audit reports, which are documents in the public domain. 
+
+This work and repository is licensed under a [Creative Commons Zero v1.0 Universal License](https://github.com/jerikdcruz/OpenAudit/blob/main/LICENSE).
