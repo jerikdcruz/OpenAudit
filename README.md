@@ -25,7 +25,7 @@ We include the following files in this beta version repository:
 * [] is the processed data that extracts and observational measure of anomalous transactions based on unliquidated cash transfers
 * [] is additional data used in producing the measure of this unliquidated 
 * [] is the R code for extracting this data from the audit report and producing this measure of anomalous transactions
-* 'Tax-Corruption-Tradeoff.pdf' provides an example of how the data from the audit reports can be used for new kinds of academic research on different aspects of governance, in this case on fiscal capacity and accountability
+* <mark>Tax-Corruption-Tradeoff.pdf </mark> provides an example of how the data from the audit reports can be used for new kinds of academic research on different aspects of governance, in this case on fiscal capacity and accountability
 
 ## Project Team
 
