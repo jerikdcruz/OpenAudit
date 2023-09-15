@@ -52,4 +52,4 @@ Over the course of 2024, we plan to develop a dedicated website for the dataset 
 
 All data released in this beta version has been taken from the Philippine [Commission on Audit's (COA)](https://www.coa.gov.ph/) audit reports, which are documents in the public domain. 
 
-This work and repository is licensed under a [Creative Commons Attribution 4.0 International](https://github.com/jerikdcruz/OpenAudit/blob/main/LICENSE.md).
+This work and repository is licensed under a [Creative Commons Attribution 4.0 International](https://github.com/jerikdcruz/OpenAudit/blob/main/LICENSE.md) license.
