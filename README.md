@@ -31,9 +31,9 @@ We include the following files in this repository's beta version:
 
 The pilot phase of OpenAudit includes the following persons: 
 
- * **Project Proponent and Lead Investigator:** Jerik Cruz; PhD candidate, MIT Department of Political Science and Graduate Research Associate, MIT GOV/LAB
+ * **Project Proponent and Lead Investigator:** Jerik Cruz; PhD candidate, MIT Department of Political Science; Graduate Research Associate, MIT GOV/LAB
  * **Project Partner Representative:** Philip Arnold Tuaño, PhD; Dean, Ateneo School of Government
- * **Project Adviser:** Heidi Mendoza, CPA, MPA, MNSA; Professor of Praxis, Ateneo School of Government; former Commissioner and Officer-in-Charge, Commission on Audit of the Philippines
+ * **Project Adviser:** Heidi Mendoza, CPA, MPA, MNSA; Professor of Praxis, Ateneo School of Government; Former Commissioner and Officer-in-Charge, Commission on Audit of the Philippines
  * **Research Assistant:** Rainier Mora; MA student, Department of Economics, Ateneo de Manila University
 
 We also gratefully acknowledge the past research assistance of Mr. Cymon Lubangco, who helped secure access to the reports and executive summaries showcased in this repository.
