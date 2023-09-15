@@ -24,7 +24,7 @@ We include the following files in this repository's beta version:
 
 * `UPCOMING` is the processed data that extracts and observational measure of anomalous transactions based on unliquidated cash transfers, the dataset includes other data taken from other secondary sources for creating the actual measure
 * `UPCOMING` is the R code for extracting this data from the audit report and producing this measure of anomalous transactions
-* `Tax-Corruption-Tradeoff.pdf` provides an (unpublished) example of how the data from the audit reports can be used for new kinds of academic research on different aspects of governance, in this case on fiscal capacity and accountability
+* `Tax-Corruption-Tradeoff.pdf` provides an (unpublished) example of how the data from the audit reports can be used for academic research on different aspects of governance (here, on fiscal capacity and accountability) to demonstrate the initiative's intellectual merit
 * `UPCOMING` is a short methodological note and workflow on how the executive summaries were processed and the measures created
 
 ## Project Team
@@ -44,7 +44,7 @@ Over the next few months, we intend to expand on this beta-version repository in
 
 * *Using the whole audit report as the data source:* we will extract and process data from the whole of the audit reports from 1998 to 2022, using large language models (currently under development), the pipeline and results of which will also be hosted on the repository
 * *Developing new governance measures:* beyond tracking corruption/anomalous transactions, we will develop broader indicators related to transparency, accountability, and service delivery capacity (especially in health-related services)
-* *Showcasing potential uses of dataset:* we will provide additional examples and replication materials of how the data can be used by researchers. Latter examples are likely to be drawn from prospective collaborations with the United Nations Development Program in the Philippines
+* *Showcasing potential uses of dataset:* we will provide additional examples and replication materials of how the data can be used by researchers. Latter examples are likely to be drawn from prospective collaborations with academic and policy researchers, to showcase the project's intellectual and practical merit
 
 Over the course of 2024, we plan to develop a dedicated website for the dataset which will be housed with the Ateneo School of Government, and to engage in conversations to scale up the project's scope beyond the Philippines. 
 
