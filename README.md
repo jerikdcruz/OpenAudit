@@ -24,7 +24,7 @@ We include the following files in this repository's beta version:
 
 * `UPCOMING` is the processed data that extracts and observational measure of anomalous transactions based on unliquidated cash transfers, the dataset includes other data taken from other secondary sources for creating the actual measure
 * `UPCOMING` is the R code for extracting this data from the audit report and producing this measure of anomalous transactions
-* `Tax-Corruption-Tradeoff.pdf` provides an example of how the data from the audit reports can be used for new kinds of academic research on different aspects of governance, in this case on fiscal capacity and accountability
+* `Tax-Corruption-Tradeoff.pdf` provides an (unpublished) example of how the data from the audit reports can be used for new kinds of academic research on different aspects of governance, in this case on fiscal capacity and accountability
 * `UPCOMING` is a short methodological note and workflow on how the executive summaries were processed and the measures created
 
 ## Project Team
