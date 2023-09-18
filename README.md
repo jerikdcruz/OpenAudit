@@ -23,7 +23,7 @@ We use 17,392 audit reports' executive summaries spanning the universe of Philip
 We include the following files in this repository's beta version: 
 
 * `unliquidata.csv` is the beta version processed data that extracts and observational measure of anomalous transactions based on unliquidated cash transfers. This dataset will be refined progressively along with the other variables in the upcoming weeks
-* `extraction1..R` is the R script for extracting this data from the audit reports; as with the `.csv` file, this will be progressively updated. Rerunning requires all the individual nested raw executive summaries to be unnested onto one level in a single folder
+* `extraction1.R` is the R script for extracting this data from the audit reports; as with the `.csv` file, this will be progressively updated. Rerunning requires all the individual nested raw executive summaries to be unnested onto one level in a single folder
 * `Tax-Corruption-Tradeoff.pdf` provides an (unpublished) work-in-progress of how the data from the audit reports can be used for academic research on different aspects of governance (here, on fiscal capacity and accountability) to demonstrate the initiative's intellectual merit
 * `UPCOMING` is a short methodological note and workflow on how the executive summaries were processed and the measures created
 
