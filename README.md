@@ -22,8 +22,8 @@ We use 17,392 audit reports' executive summaries spanning the universe of Philip
 
 We include the following files in this repository's beta version: 
 
-* `UPCOMING` is the processed data that extracts and observational measure of anomalous transactions based on unliquidated cash transfers, the dataset includes other data taken from other secondary sources for creating the actual measure
-* `UPCOMING` is the R code for extracting this data from the audit report and producing this measure of anomalous transactions
+* `unliquidata.csv` is the beta version processed data that extracts and observational measure of anomalous transactions based on unliquidated cash transfers. This dataset will be refined progressively along with the other variables in the upcoming weeks
+* `UPCOMING` is the R script for extracting this data from the audit report and producing this measure of anomalous transactions
 * `Tax-Corruption-Tradeoff.pdf` provides an (unpublished) work-in-progress of how the data from the audit reports can be used for academic research on different aspects of governance (here, on fiscal capacity and accountability) to demonstrate the initiative's intellectual merit
 * `UPCOMING` is a short methodological note and workflow on how the executive summaries were processed and the measures created
 
