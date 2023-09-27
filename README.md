@@ -16,7 +16,9 @@ Starting with the universe of audit reports of the Philippines' COA from 1998-20
 
 For the pilot phase of OpenAudit, the team has been provided digital copies of all COA audit reports from 1998 to 2022. While this bigger corpus of reports is currently undergoing processing, this beta version of OpenAudit showcases what can be learned by focusing on the executive summaries of these reports. Like the audit reports themselves, these executive summaries are quite standardized in what they report, having sections dedicated to financial and operational highlights, auditors' opinions on financial statements, audit findings and recommendations, and government agencies' progress on implementing on the past year's audit recommendations. The randomly-selected executive summary of [Babatngon municipality](https://www.coa.gov.ph/download/3322/leyte/42439/babatngon-executive-summary-2015.pdf) in Leyte province for 2015 provides an example of the information typically conveyed by such documents. 
 
-We use 17,392 audit reports' executive summaries spanning the universe of Philippine local governments for 2010-2020. Within these executive summaries, we zero-in on the "Audit Findings and Recommendations" sections, as these summarize the main issues flagged by auditors in their assessments of agencies' public finances. Access the unprocessed executive summaries [here](https://drive.google.com/drive/folders/12dtP97ojWtc1wGjusewsmkULpW39gK6d?usp=drive_link).
+We use 17,392 audit reports' executive summaries spanning the universe of Philippine local governments for 2010-2020. Within these executive summaries, we zero-in on the "Audit Findings and Recommendations" sections, as these summarize the main issues flagged by auditors in their assessments of agencies' public finances. 
+
+Access the unprocessed executive summaries [here](https://drive.google.com/drive/folders/12dtP97ojWtc1wGjusewsmkULpW39gK6d?usp=drive_link).
 
 ## Data Usage
 
