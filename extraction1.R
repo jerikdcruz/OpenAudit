@@ -118,7 +118,7 @@ unliquidata <- unliquidata %>%
 #cleaning dataset: cleaning municipality values, idiosyncratic changes
 unliquidata[c(3:8, 5438), 1] <- "Abra de Ilog" 
 unliquidata[c(1, 105:112), 1] <- "Alfonso Castaneda" 
-unliquidata[65:79, 1] <- "Alang Alang"
+unliquidata[65:69, 1] <- "Alang Alang"
 unliquidata[228:230, 1] <- "Anini-y" 
 unliquidata[288, 1] <- "Braulio E. Dujali" 
 unliquidata[312:320, 1] <- "Bacolod City"
@@ -170,7 +170,7 @@ unliquidata[2481:2483, 1] <- 'Lawa-an'
 unliquidata[2504:2511, 1] <- 'Leon B. Postigo'
 unliquidata[2555:2560, 1] <- 'Licuan-Baay'
 unliquidata[2639:2643, 1] <- 'Lope de Vega'
-unliquidata[2706:2643, 1] <- 'Maelang' #review
+unliquidata[2706, 1] <- "M'lang" 
 unliquidata[3038, 1] <- 'Mansalay'
 unliquidata[3160:3162, 1] <- 'Miag-ao'
 unliquidata[3471, 1] <- 'Palayan City'
@@ -208,6 +208,11 @@ unliquidata[4766:4773, 1] <- 'Santa Barbara'
 unliquidata[4781:4782, 1] <- 'Santa Elena'
 unliquidata[4825:4829, 1] <- 'Santa Rosa City'
 unliquidata[4818:4820, 1] <- 'Santa Praxedes'
+
+#writing out and saving
+options(scipen=999)
+unliquidata$unliquidated <- round(unliquidata$unliquidated, 2)
+write.csv(unliquidata, "unliquidata.csv", row.names=FALSE)
 
 #cleaning dataset: cleaning lgu na values, systemic changes
 unliquidata$province[unliquidata$lgu == 'Abra de Ilog' & is.na(unliquidata$province)] <- 'Occidental Mindoro'
@@ -671,7 +676,111 @@ unliquidata$province[unliquidata$lgu == 'Sergio Osmeña' & is.na(unliquidata$pro
 #cleaning dataset: removing double spaces
 unliquidata <- unliquidata %>%
   mutate(lgu = str_replace(lgu, '  ', ' '))
-  
-#writing out and saving: cleaning on september 22
+
+#cleaning dataset: cleaning province values, idiosyncratic changes
+unliquidata[69, 2] <- 'Leyte'
+unliquidata[495, 2] <- 'Aklan'
+unliquidata[496, 2] <- 'Aklan'
+unliquidata[841, 2] <- 'Guimaras'
+unliquidata[899, 2] <- 'Surigao del Norte'
+unliquidata[1034, 2] <- 'Negros Occidental'
+unliquidata[1321, 2] <- 'Iloilo'
+unliquidata[1716, 2] <- 'Masbate'
+unliquidata[2287, 2] <- 'Leyte'
+unliquidata[2667, 2] <- 'Quezon'
+unliquidata[2718, 2] <- 'Southern Leyte'
+unliquidata[2742, 2] <- 'Bohol'
+unliquidata[2792, 2] <- 'Agusan del Norte'
+unliquidata[3278, 2] <- 'Cebu'
+unliquidata[3496, 2] <- 'Negros Oriental'
+unliquidata[3727, 2] <- 'Masbate'
+unliquidata[4053, 2] <- 'Quezon'
+unliquidata[4059, 2] <- 'Iloilo'
+unliquidata[4060, 2] <- 'Romblon'
+unliquidata[4061, 2] <- 'Southern Leyte'
+unliquidata[4062, 2] <- 'Quezon'
+unliquidata[4065, 2] <- 'Southern Leyte'
+unliquidata[4068, 2] <- 'Agusan del Sur'
+unliquidata[4069, 2] <- 'Zamboanga del Sur'
+unliquidata[4175, 2] <- 'Pampanga'
+unliquidata[4506, 2] <- 'Isabela'
+unliquidata[4755, 2] <- 'Leyte'
+unliquidata[4830, 2] <- 'Sto. Niño'
+
+#cleaning dataset: cleaning lgu values, idiosyncratic changes
+unliquidata[71, 1] <- 'Albuquerque'
+unliquidata[72, 1] <- 'Alcala'
+unliquidata[73, 1] <- 'Alcala'
+unliquidata[74, 1] <- 'Alcala'
+unliquidata[77, 1] <- 'Alcala'
+unliquidata[79, 1] <- 'Alcantara'
+unliquidata[2653, 1] <- 'Loreto'
+unliquidata[2667, 1] <- 'Lucena City'
+unliquidata[2668, 1] <- 'Lugait'
+unliquidata[2670, 1] <- 'Luisiana'
+unliquidata[2671, 1] <- 'Luisiana'
+unliquidata[2673, 1] <- 'Lumban'
+unliquidata[2678, 1] <- 'Lumbatan'
+unliquidata[2679, 1] <- 'Lumbayanague'
+unliquidata[2681, 1] <- 'Luna'
+unliquidata[2682, 1] <- 'Luna'
+unliquidata[2685, 1] <- 'Luna'
+unliquidata[2686, 1] <- 'Lupao'
+unliquidata[2687, 1] <- 'Lupao'
+unliquidata[2689, 1] <- 'Lupao'
+unliquidata[2691, 1] <- 'Lupao'
+unliquidata[2695, 1] <- 'Lupi'
+unliquidata[2705, 1] <- 'Lutayan'
+unliquidata[4830, 1] <- 'Cagayan'
+
+#cleaning dataset: cleaning year values, idiosyncratic changes
+unliquidata[311, 3] <- 2013
+unliquidata[1389, 3] <- 2017
+unliquidata[1959, 3] <- 2015
+unliquidata[3621, 3] <- 2011
+unliquidata[4141, 3] <- 2013
+unliquidata[5343, 3] <- 2017
+
+#final pass of cleaning
+unliquidata[124, 2] <- 'Zamboanga Sibugay'
+unliquidata[124, 3] <- 2019
+unliquidata[633, 2] <- 'Masbate'
+unliquidata[1577, 2] <- 'Eastern Samar'
+unliquidata[2286, 2] <- 'Negros Oriental'
+unliquidata[2500, 2] <- 'Iloilo'
+unliquidata[2574, 2] <- 'Southern Leyte'
+unliquidata[2635, 2] <- 'Romblon'
+unliquidata[2654, 2] <- 'Agusan del Sur'
+unliquidata[2680, 2] <- 'Lanao del Sur'
+unliquidata[2706, 2] <- 'Cotabato'
+unliquidata[2793, 2] <- 'Sorsogon'
+unliquidata[3279, 2] <- 'Camarines Sur'
+unliquidata[3280, 2] <- 'Cebu'
+unliquidata[3280, 2] <- 'Cebu'
+unliquidata[3715, 2] <- 'Zamboanga del Sur'
+unliquidata[3795, 2] <- 'Capiz'
+unliquidata[3852, 2] <- 'Bukidnon'
+unliquidata[3853, 2] <- 'Isabela'
+unliquidata[3979, 2] <- 'Isabela'
+unliquidata[4052, 2] <- 'Surigao del Sur'
+unliquidata[4056, 2] <- 'Negros Occidental'
+unliquidata[4058, 2] <- 'Negros Occidental'
+unliquidata[4063, 2] <- 'Masbate'
+unliquidata[4174, 2] <- 'Pampanga'
+unliquidata[4504:4505, 2] <- 'Iloilo'
+unliquidata[4535, 2] <- 'Agusan del Norte'
+unliquidata[4535, 3] <- 2019
+unliquidata[4981:4982, 2] <- 'Lanao del Norte'
+unliquidata[996, 2] <- 'Misamis Oriental'
+unliquidata[2060:2061, 2] <- 'Negros Occidental'
+unliquidata[431, 3] <- 2013
+unliquidata[1049, 3] <- 2013
+unliquidata[1248, 3] <- 2015
+unliquidata[2052, 3] <- 2017
+unliquidata[2706, 3] <- 2020
+unliquidata[3092, 3] <- 2010
+unliquidata <- unliquidata[-c(3420, 3831, 5440), ]
+
+#writing out and saving: cleaning on september 23
 options(scipen=999)
 write.csv(unliquidata, "unliquidata.csv", row.names=FALSE)

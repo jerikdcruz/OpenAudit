@@ -55,29 +55,29 @@
 "Alamada","Cotabato",2017,847480.94
 "Alamada","Cotabato",2018,525248.42
 "Alamada","Cotabato",2019,0
-"Alaminos  City","Pangasinan",2010,19616502.48
-"Alaminos  City","Pangasinan",2011,445061283.85
-"Alaminos  City","Pangasinan",2012,18840337.89
-"Alaminos  City","Pangasinan",2013,21097176.57
-"Alaminos  City","Pangasinan",2014,26656804.6
-"Alaminos  City","Pangasinan",2015,28042066.58
-"Alaminos  City","Pangasinan",2017,0
-"Alaminos  City","Pangasinan",2018,0
+"Alaminos City","Pangasinan",2010,19616502.48
+"Alaminos City","Pangasinan",2011,445061283.85
+"Alaminos City","Pangasinan",2012,18840337.89
+"Alaminos City","Pangasinan",2013,21097176.57
+"Alaminos City","Pangasinan",2014,26656804.6
+"Alaminos City","Pangasinan",2015,28042066.58
+"Alaminos City","Pangasinan",2017,0
+"Alaminos City","Pangasinan",2018,0
 "Alang Alang","Leyte",2015,7443360.09
 "Alang Alang","Leyte",2011,0
 "Alang Alang","Leyte",2013,111679614
 "Alang Alang","Leyte",2017,603960
-"Alang Alang",NA,2020,600000
-"Alang Alang","Leyte",2012,531138
-"Alang Alang","Bohol",2017,28733964.84
-"Alang Alang","Cagayan",2013,4466698.25
-"Alang Alang","Cagayan",2014,2820710.69
-"Alang Alang","Cagayan",2015,4161337.13
-"Alang Alang","Cagayan",2016,4389047.74
-"Alang Alang","Cagayan",2017,0
-"Alang Alang","Cagayan",2019,9265248.5
-"Alang Alang","Pangasinan",2017,117406
-"Alang Alang","Romblon",2010,1732341.06
+"Alang Alang","Leyte",2020,600000
+"Albuera","Leyte",2012,531138
+"Albuquerque","Bohol",2017,28733964.84
+"Alcala","Cagayan",2013,4466698.25
+"Alcala","Cagayan",2014,2820710.69
+"Alcala","Cagayan",2015,4161337.13
+"Alcala","Cagayan",2016,4389047.74
+"Alcala","Cagayan",2017,0
+"Alcala","Cagayan",2019,9265248.5
+"Alcala","Pangasinan",2017,117406
+"Alcantara","Romblon",2010,1732341.06
 "Alcantara","Romblon",2013,1220397
 "Alcantara","Romblon",2014,1020231
 "Alcoy","Cebu",2010,45086926.73
@@ -122,7 +122,7 @@
 "Alicia","Bohol",2013,970513.94
 "Alicia","Zamboanga Sibugay",2011,0
 "Alicia","Zamboanga Sibugay",2014,4307818.23
-"Alicia",NA,NA,4.08
+"Alicia","Zamboanga Sibugay",2019,4.08
 "Alimodian","Iloilo",2014,2169627.17
 "Alimodian","Iloilo",2019,15.03
 "Alimodian","Iloilo",2020,3.29
@@ -209,12 +209,12 @@
 "Angadanan","Isabela",2016,3943817.65
 "Angadanan","Isabela",2017,1257398.28
 "Angat","Bulacan",2014,2075000
-"Angeles  City","Pampanga",2017,20487024.99
-"Angeles  City","Pampanga",2020,3750000
-"Angeles  City","Pampanga",2011,0
-"Angeles  City","Pampanga",2018,20487024.99
-"Angeles  City","Pampanga",2019,20487024.99
-"Angeles  City","Pampanga",2010,14.9
+"Angeles City","Pampanga",2017,20487024.99
+"Angeles City","Pampanga",2020,3750000
+"Angeles City","Pampanga",2011,0
+"Angeles City","Pampanga",2018,20487024.99
+"Angeles City","Pampanga",2019,20487024.99
+"Angeles City","Pampanga",2010,14.9
 "Angono","Rizal",2011,784972.29
 "Angono","Rizal",2012,881941
 "Angono","Rizal",2013,96327.88
@@ -238,13 +238,13 @@
 "Antipas","Cotabato",2017,2550757.71
 "Antipas","Cotabato",2018,4390323.33
 "Antipas","Cotabato",2019,554631778.81
-"Antipolo  City","Rizal",2011,68291509.73
-"Antipolo  City","Rizal",2012,42273130.09
-"Antipolo  City","Rizal",2013,110912996.84
-"Antipolo  City","Rizal",2015,91929522.47
-"Antipolo  City","Rizal",2016,47775034.25
-"Antipolo  City","Rizal",2010,35021966
-"Antipolo  City","Rizal",2014,168431598.74
+"Antipolo City","Rizal",2011,68291509.73
+"Antipolo City","Rizal",2012,42273130.09
+"Antipolo City","Rizal",2013,110912996.84
+"Antipolo City","Rizal",2015,91929522.47
+"Antipolo City","Rizal",2016,47775034.25
+"Antipolo City","Rizal",2010,35021966
+"Antipolo City","Rizal",2014,168431598.74
 "Araceli","Palawan",2010,555103.22
 "Araceli","Palawan",2014,1114589.33
 "Araceli","Palawan",2015,1210840.83
@@ -309,7 +309,7 @@
 "Bacolod","Lanao del Norte",2015,203942.5
 "Bacolod","Lanao del Norte",2016,2104386
 "Bacolod","Lanao del Norte",2017,1157275
-"Bacolod","Lanao del Norte",20131,236763.4
+"Bacolod","Lanao del Norte",2013,236763.4
 "Bacolod City","Negros Occidental",2019,107174536.54
 "Bacolod City","Negros Occidental",2017,58249153.18
 "Bacolod City","Negros Occidental",2010,50000
@@ -365,25 +365,25 @@
 "Baganga","Davao Oriental",2019,5700037.17
 "Baganga","Davao Oriental",2020,9175241.72
 "Baggao","Cagayan",2012,2041176.31
-"Bago  City","Negros Occidental",2011,247639.3
-"Bago  City","Negros Occidental",2014,6020876
-"Bago  City","Negros Occidental",2015,0
-"Bago  City","Negros Occidental",2016,220000
-"Bago  City","Negros Occidental",2018,375000
-"Baguio  City","Benguet",2017,1313190.49
-"Baguio  City","Benguet",2013,2.26
+"Bago City","Negros Occidental",2011,247639.3
+"Bago City","Negros Occidental",2014,6020876
+"Bago City","Negros Occidental",2015,0
+"Bago City","Negros Occidental",2016,220000
+"Bago City","Negros Occidental",2018,375000
+"Baguio City","Benguet",2017,1313190.49
+"Baguio City","Benguet",2013,2.26
 "Bagumbayan","Sultan Kudarat",2010,18660670.68
 "Bagumbayan","Sultan Kudarat",2011,6769920.26
 "Bagumbayan","Sultan Kudarat",2013,6234162.34
 "Bagumbayan","Sultan Kudarat",2014,6173901.14
 "Bagumbayan","Sultan Kudarat",2017,6046553.6
 "Bagumbayan","Sultan Kudarat",2018,6249268.15
-"Bais City",NA,2019,58473900.52
-"Bais  City","Negros Oriental",2011,984587761.36
-"Bais  City","Negros Oriental",2013,0
-"Bais  City","Negros Oriental",2018,116473612.94
-"Bais  City","Negros Oriental",2014,4049112.24
-"Bais  City","Negros Oriental",2010,888403928.3
+"Bais City","Negros Oriental",2019,58473900.52
+"Bais City","Negros Oriental",2011,984587761.36
+"Bais City","Negros Oriental",2013,0
+"Bais City","Negros Oriental",2018,116473612.94
+"Bais City","Negros Oriental",2014,4049112.24
+"Bais City","Negros Oriental",2010,888403928.3
 "Balamban","Cebu",2020,15000
 "Balangiga","Eastern Samar",2010,274330.76
 "Balangiga","Eastern Samar",2016,2783048.5
@@ -429,7 +429,7 @@
 "Balingasag","Misamis Oriental",2011,2370014.72
 "Balingasag","Misamis Oriental",2012,1833768.9
 "Balingasag","Misamis Oriental",2014,2400481.33
-"Balingasag","Misamis Oriental",20131,2545746.8
+"Balingasag","Misamis Oriental",2013,2545746.8
 "Balingasag","Misamis Oriental",2019,0
 "Balingasag","Misamis Oriental",2020,274197.88
 "Balingoan","Misamis Oriental",2016,1806310
@@ -493,8 +493,8 @@
 "Banga","Aklan",2018,186.53
 "Banga","South Cotabato",2011,748253.18
 "Banga","South Cotabato",2014,167606152.23
-"Banga",NA,2019,260.73
-"Banga",NA,2020,25.63
+"Banga","Aklan",2019,260.73
+"Banga","Aklan",2020,25.63
 "Bangar","La Union",2012,0
 "Bangued","Abra",2012,555468.69
 "Bangued","Abra",2014,41991.8
@@ -631,7 +631,7 @@
 "Batuan","Bohol",2014,0
 "Batuan","Masbate",2012,1878093.52
 "Batuan","Masbate",2013,715567.27
-"Batuan",NA,2020,2401458.35
+"Batuan","Masbate",2020,2401458.35
 "Bauang","La Union",2015,4898206.16
 "Baungon","Bukidnon",2017,518850.29
 "Baungon","Bukidnon",2019,1953058.7
@@ -650,11 +650,11 @@
 "Bayambang","Pangasinan",2018,3202198
 "Bayambang","Pangasinan",2020,1307328.33
 "Bayang","Lanao del Sur",2020,0
-"Bayawan  City","Negros Oriental",2020,0
-"Bayawan  City","Negros Oriental",2012,420000
-"Baybay  City","Leyte",2010,543448.96
-"Baybay  City","Leyte",2012,0
-"Baybay  City","Leyte",2013,0
+"Bayawan City","Negros Oriental",2020,0
+"Bayawan City","Negros Oriental",2012,420000
+"Baybay City","Leyte",2010,543448.96
+"Baybay City","Leyte",2012,0
+"Baybay City","Leyte",2013,0
 "Bayog","Zamboanga del Sur",2012,65114.27
 "Bayog","Zamboanga del Sur",2013,2704100.77
 "Bayog","Zamboanga del Sur",2014,729892.98
@@ -669,8 +669,8 @@
 "Bayombong","Nueva Vizcaya",2015,6453892.5
 "Bayombong","Nueva Vizcaya",2017,6748687.72
 "Bayombong","Nueva Vizcaya",2018,9509479.05
-"Bayugan  City","Agusan del Sur",2016,0
-"Bayugan  City","Agusan del Sur",2017,37914720.3
+"Bayugan City","Agusan del Sur",2016,0
+"Bayugan City","Agusan del Sur",2017,37914720.3
 "Belison","Antique",2011,112338.72
 "Belison","Antique",2012,1510000
 "Belison","Antique",2015,2540853.3
@@ -705,9 +705,9 @@
 "Binalbagan","Negros Occidental",2018,4628204.48
 "Binalbagan","Negros Occidental",2019,416107541.76
 "Binalonan","Pangasinan",2014,490700
-"Binan  City","Laguna",2015,738497.6
-"Binan  City","Laguna",2018,11770899.81
-"Binan  City","Laguna",2019,14059.31
+"Binan City","Laguna",2015,738497.6
+"Binan City","Laguna",2018,11770899.81
+"Binan City","Laguna",2019,14059.31
 "Binangonan","Rizal",2011,0
 "Binangonan","Rizal",2012,824761.93
 "Binangonan","Rizal",2013,804586.17
@@ -743,7 +743,7 @@
 "Biri","Northern Samar",2011,3066592.31
 "Biri","Northern Samar",2013,2895113.97
 "Biri","Northern Samar",2015,1126209.53
-"Bislig  City","Surigao del Sur",2016,3075000
+"Bislig City","Surigao del Sur",2016,3075000
 "Boac","Marinduque",2010,1661897.2
 "Boac","Marinduque",2019,4588508
 "Bobon","Northern Samar",2011,213125.65
@@ -754,10 +754,10 @@
 "Bocaue","Bulacan",2012,4517155.8
 "Bocaue","Bulacan",2018,5146998.19
 "Bocaue","Bulacan",2020,2694124.38
-"Bogo  City","Cebu",2010,4876714.08
-"Bogo  City","Cebu",2011,5376192.89
-"Bogo  City","Cebu",2012,12310912.56
-"Bogo  City","Cebu",2013,38367018.21
+"Bogo City","Cebu",2010,4876714.08
+"Bogo City","Cebu",2011,5376192.89
+"Bogo City","Cebu",2012,12310912.56
+"Bogo City","Cebu",2013,38367018.21
 "Bolinao","Pangasinan",2010,726230.45
 "Bolinao","Pangasinan",2011,840387.45
 "Bolinao","Pangasinan",2012,0
@@ -782,12 +782,12 @@
 "Bontoc","Southern Leyte",2016,518226.14
 "Bontoc","Southern Leyte",2018,136112.44
 "Bontoc","Southern Leyte",2019,136519
-"Borongan  City","Eastern Samar",2019,24048498.38
-"Borongan  City","Eastern Samar",2013,0
-"Borongan  City","Eastern Samar",2014,2094574.62
-"Borongan  City","Eastern Samar",2015,3106446.62
-"Borongan  City","Eastern Samar",2016,23553550.58
-"Borongan  City","Eastern Samar",2017,6356027.36
+"Borongan City","Eastern Samar",2019,24048498.38
+"Borongan City","Eastern Samar",2013,0
+"Borongan City","Eastern Samar",2014,2094574.62
+"Borongan City","Eastern Samar",2015,3106446.62
+"Borongan City","Eastern Samar",2016,23553550.58
+"Borongan City","Eastern Samar",2017,6356027.36
 "Borongan City","Eastern Samar",2012,2756801.18
 "Boston","Davao Oriental",2010,4894034.46
 "Boston","Davao Oriental",2011,0
@@ -839,7 +839,7 @@
 "Buenavista","Marinduque",2019,1682226.46
 "Buenavista","Quezon",2010,109792
 "Buenavista","Quezon",2018,0
-"Buenavista",NA,2019,2495920.04
+"Buenavista","Guimaras",2019,2495920.04
 "Bugallon","Pangasinan",2012,503181.57
 "Bugallon","Pangasinan",2013,321871.97
 "Bugallon","Pangasinan",2014,683244.37
@@ -897,7 +897,7 @@
 "Burgos","Isabela",2016,1653074.8
 "Burgos","Isabela",2017,0
 "Burgos","Surigao del Norte",2018,0
-"Burgos",NA,2019,115384.5
+"Burgos","Surigao del Norte",2019,115384.5
 "Buruanga","Aklan",2010,190311.52
 "Buruanga","Aklan",2013,18545.09
 "Bustos","Bulacan",2016,223600
@@ -911,10 +911,10 @@
 "Busuanga","Palawan",2019,0
 "Busuanga","Palawan",2020,18746296.91
 "Butig","Lanao del Sur",2010,12758200
-"Butuan  City","Agusan del Norte",2016,0
-"Butuan  City","Agusan del Norte",2017,0
-"Butuan  City","Agusan del Norte",2018,0
-"Butuan  City","Agusan del Norte",2010,26955569.3
+"Butuan City","Agusan del Norte",2016,0
+"Butuan City","Agusan del Norte",2017,0
+"Butuan City","Agusan del Norte",2018,0
+"Butuan City","Agusan del Norte",2010,26955569.3
 "Buug","Zamboanga Sibugay",2019,0
 "Pres. Carlos P. Garcia","Bohol",2010,23137239.21
 "Pres. Carlos P. Garcia","Bohol",2012,0
@@ -922,19 +922,19 @@
 "Caba","La Union",2011,897126.3
 "Caba","La Union",2013,472534.17
 "Caba","La Union",2014,209649.05
-"Cabadbaran  City","Agusan del Norte",2020,48115485.49
-"Cabadbaran  City","Agusan del Norte",2012,14633005.08
-"Cabadbaran  City","Agusan del Norte",2017,34269122.53
+"Cabadbaran City","Agusan del Norte",2020,48115485.49
+"Cabadbaran City","Agusan del Norte",2012,14633005.08
+"Cabadbaran City","Agusan del Norte",2017,34269122.53
 "Cabagan","Isabela",2011,108600
 "Cabagan","Isabela",2014,114205.93
-"Cabanatuan  City","Nueva Ecija",2012,0
-"Cabanatuan  City","Nueva Ecija",2013,0
-"Cabanatuan  City","Nueva Ecija",2014,0
-"Cabanatuan  City","Nueva Ecija",2015,0
-"Cabanatuan  City","Nueva Ecija",2016,0
-"Cabanatuan  City","Nueva Ecija",2018,18080532.96
-"Cabanatuan  City","Nueva Ecija",2019,8879373.13
-"Cabanatuan  City","Nueva Ecija",2011,0
+"Cabanatuan City","Nueva Ecija",2012,0
+"Cabanatuan City","Nueva Ecija",2013,0
+"Cabanatuan City","Nueva Ecija",2014,0
+"Cabanatuan City","Nueva Ecija",2015,0
+"Cabanatuan City","Nueva Ecija",2016,0
+"Cabanatuan City","Nueva Ecija",2018,18080532.96
+"Cabanatuan City","Nueva Ecija",2019,8879373.13
+"Cabanatuan City","Nueva Ecija",2011,0
 "Cabangan","Zambales",2017,6711500
 "Cabanglasan","Bukidnon",2017,10422602.23
 "Cabanglasan","Bukidnon",2019,24720641.03
@@ -970,16 +970,16 @@
 "Cabusao","Camarines Sur",2013,299504.85
 "Cabusao","Camarines Sur",2018,8.42
 "Cabuyao City","Laguna",2010,14.8
-"Cabuyao  City","Laguna",2020,11582332.65
-"Cabuyao  City","Laguna",2014,9658557.03
-"Cabuyao  City","Laguna",2015,7817372.9
-"Cabuyao  City","Laguna",2018,1574278843.86
-"Cabuyao  City","Laguna",2019,34618462.15
-"Cadiz  City","Negros Occidental",2019,20187022.31
-"Cadiz  City","Negros Occidental",2015,20429296.62
-"Cadiz  City","Negros Occidental",2016,1719141108.14
-"Cadiz  City","Negros Occidental",2017,18209188
-"Cadiz  City","Negros Occidental",2018,37054304.93
+"Cabuyao City","Laguna",2020,11582332.65
+"Cabuyao City","Laguna",2014,9658557.03
+"Cabuyao City","Laguna",2015,7817372.9
+"Cabuyao City","Laguna",2018,1574278843.86
+"Cabuyao City","Laguna",2019,34618462.15
+"Cadiz City","Negros Occidental",2019,20187022.31
+"Cadiz City","Negros Occidental",2015,20429296.62
+"Cadiz City","Negros Occidental",2016,1719141108.14
+"Cadiz City","Negros Occidental",2017,18209188
+"Cadiz City","Negros Occidental",2018,37054304.93
 "Cagayan de Oro City","Misamis Oriental",2019,1439.41
 "Cagayan de Oro City","Misamis Oriental",2020,500.48
 "Cagayan de Oro City","Misamis Oriental",2014,4307992461.93
@@ -991,10 +991,10 @@
 "Cagayancillo","Palawan",2016,3492190.89
 "Cagayancillo","Palawan",2017,3117418.19
 "Cagayancillo","Palawan",2018,0
-"Cagayancillo",NA,2020,0
-"Cagayan de Oro  City","Misamis Oriental",2013,1.46
-"Cagayan de Oro  City","Misamis Oriental",2018,293.87
-"Cagayan de Oro  City",NA,2016,0
+"Cagayancillo","Palawan",2020,0
+"Cagayan de Oro City","Misamis Oriental",2013,1.46
+"Cagayan de Oro City","Misamis Oriental",2018,293.87
+"Cagayan de Oro City","Misamis Oriental",2016,0
 "Cagdianao","Dinagat Islands",2012,5156870.44
 "Cagdianao","Dinagat Islands",2013,2950216.79
 "Cagdianao","Dinagat Islands",2014,198847.26
@@ -1025,29 +1025,29 @@
 "Calabanga","Camarines Sur",2016,3.35
 "Calaca","Batangas",2015,287600
 "Calamba","Misamis Occidental",2013,222380.39
-"Calamba  City","Laguna",2016,42715150.68
+"Calamba City","Laguna",2016,42715150.68
 "Calanasan","Apayao",2010,6.12
 "Calanasan","Apayao",2011,2.98
 "Calape","Bohol",2014,40471969.17
 "Calasiao","Pangasinan",2013,68900
 "Calasiao","Pangasinan",2017,22000
 "Calatagan","Batangas",2013,48400
-"Calatrava",NA,2019,5688385.46
+"Calatrava","Negros Occidental",2019,5688385.46
 "Calauag","Quezon",2019,231535
 "Calauan","Laguna",2012,868500
 "Calauan","Laguna",2019,102000
 "Calauan","Laguna",2020,1189547.37
-"Calbayog  City","Samar",2019,160505095.89
-"Calbayog  City","Samar",2020,58380525.15
-"Calbayog  City","Samar",2012,332623741.48
-"Calbayog  City","Samar",2013,255179822.5
-"Calbayog  City","Samar",2014,39596925.59
-"Calbayog  City","Samar",2015,98691383.33
-"Calbayog  City","Samar",2018,37773477
+"Calbayog City","Samar",2019,160505095.89
+"Calbayog City","Samar",2020,58380525.15
+"Calbayog City","Samar",2012,332623741.48
+"Calbayog City","Samar",2013,255179822.5
+"Calbayog City","Samar",2014,39596925.59
+"Calbayog City","Samar",2015,98691383.33
+"Calbayog City","Samar",2018,37773477
 "Calbiga","Samar",2010,558981
 "Calbiga","Samar",2012,4249626
 "Calbiga","Samar",2014,518051.71
-"Calbiga","Samar",20131,10810599.28
+"Calbiga","Samar",2013,10810599.28
 "Calinog","Iloilo",2011,100
 "Calinog","Iloilo",2012,118673
 "Calinog","Iloilo",2013,121143
@@ -1058,16 +1058,16 @@
 "Calintaan","Occidental Mindoro",2017,2295951.41
 "Calintaan","Occidental Mindoro",2014,35965772.51
 "Calintaan","Occidental Mindoro",2020,3637903.57
-"Caloocan  City","Metro Manila",2020,80.54
-"Caloocan  City","Metro Manila",2010,120.62
-"Caloocan  City","Metro Manila",2011,108.08
-"Caloocan  City","Metro Manila",2012,215.31
-"Caloocan  City","Metro Manila",2013,53879329.9
-"Caloocan  City","Metro Manila",2014,0
-"Caloocan  City","Metro Manila",2015,0
-"Caloocan  City","Metro Manila",2016,153.64
-"Caloocan  City","Metro Manila",2017,173.28
-"Caloocan  City","Metro Manila",2018,88.22
+"Caloocan City","Metro Manila",2020,80.54
+"Caloocan City","Metro Manila",2010,120.62
+"Caloocan City","Metro Manila",2011,108.08
+"Caloocan City","Metro Manila",2012,215.31
+"Caloocan City","Metro Manila",2013,53879329.9
+"Caloocan City","Metro Manila",2014,0
+"Caloocan City","Metro Manila",2015,0
+"Caloocan City","Metro Manila",2016,153.64
+"Caloocan City","Metro Manila",2017,173.28
+"Caloocan City","Metro Manila",2018,88.22
 "Calubian","Leyte",2010,1690929.24
 "Calubian","Leyte",2012,1688194.45
 "Calubian","Leyte",2013,5588827.91
@@ -1106,22 +1106,22 @@
 "Candijay","Bohol",2012,16498991.68
 "Candijay","Bohol",2013,15842710.44
 "Candijay","Bohol",2015,4.3
-"Candon  City","Ilocos Sur",2010,3713770.2
-"Candon  City","Ilocos Sur",2011,494118
-"Candon  City","Ilocos Sur",2012,624264
+"Candon City","Ilocos Sur",2010,3713770.2
+"Candon City","Ilocos Sur",2011,494118
+"Candon City","Ilocos Sur",2012,624264
 "Candoni","Negros Occidental",2014,13233832.36
 "Candoni","Negros Occidental",2016,10958455.39
 "Candoni","Negros Occidental",2017,28101207.74
 "Candoni","Negros Occidental",2018,268673.08
 "Candoni","Negros Occidental",2019,3818666.04
 "Candoni","Negros Occidental",2020,26034414.2
-"Canlaon  City","Negros Oriental",2019,22684377.84
-"Canlaon  City","Negros Oriental",2011,5081677.6
-"Canlaon  City","Negros Oriental",2012,10913787.3
-"Canlaon  City","Negros Oriental",2014,429539678.73
-"Canlaon  City","Negros Oriental",2016,546.14
-"Canlaon  City","Negros Oriental",2015,587.66
-"Canlaon  City","Negros Oriental",2010,3918552.99
+"Canlaon City","Negros Oriental",2019,22684377.84
+"Canlaon City","Negros Oriental",2011,5081677.6
+"Canlaon City","Negros Oriental",2012,10913787.3
+"Canlaon City","Negros Oriental",2014,429539678.73
+"Canlaon City","Negros Oriental",2016,546.14
+"Canlaon City","Negros Oriental",2015,587.66
+"Canlaon City","Negros Oriental",2010,3918552.99
 "Cantilan","Surigao del Sur",2010,2.1
 "Cantilan","Surigao del Sur",2011,9599092.31
 "Cantilan","Surigao del Sur",2016,940000
@@ -1161,11 +1161,11 @@
 "Caramoan","Camarines Sur",2019,2.02
 "Caramoran","Catanduanes",2011,0
 "Caramoran","Catanduanes",2013,0
-"Carcar  City","Cebu",2020,163943
-"Carcar  City","Cebu",2010,1308372.5
-"Carcar  City","Cebu",2011,6904656.32
-"Carcar  City","Cebu",2012,17614027.6
-"Carcar  City","Cebu",2016,0
+"Carcar City","Cebu",2020,163943
+"Carcar City","Cebu",2010,1308372.5
+"Carcar City","Cebu",2011,6904656.32
+"Carcar City","Cebu",2012,17614027.6
+"Carcar City","Cebu",2016,0
 "Cardona","Rizal",2012,10500000
 "Cardona","Rizal",2014,70142.35
 "Carigara","Leyte",2012,9979008.5
@@ -1224,7 +1224,7 @@
 "Catarman","Camiguin",2016,21341775.4
 "Catarman","Northern Samar",2012,535020.79
 "Catarman","Northern Samar",2016,502705
-"Catbalogan  City","Samar",2012,759120
+"Catbalogan City","Samar",2012,759120
 "Cateel","Davao Oriental",2010,4529844.01
 "Cateel","Davao Oriental",2011,5144748.07
 "Cateel","Davao Oriental",2014,36999275.33
@@ -1243,10 +1243,10 @@
 "Catubig","Northern Samar",2012,6112072.6
 "Catubig","Northern Samar",2013,4687590.6
 "Catubig","Northern Samar",2015,22268848.64
-"Cauayan  City","Isabela",2014,0
-"Cauayan  City","Isabela",2018,15255595.84
-"Cauayan  City","Isabela",2019,0
-"Cauayan City","Isabela",20,0
+"Cauayan City","Isabela",2014,0
+"Cauayan City","Isabela",2018,15255595.84
+"Cauayan City","Isabela",2019,0
+"Cauayan City","Isabela",2015,0
 "Cavinti","Laguna",2015,0
 "Cavinti","Laguna",2016,730059.5
 "Cavinti","Laguna",2017,0
@@ -1256,14 +1256,14 @@
 "Cawayan","Masbate",2011,5817648.44
 "Cawayan","Masbate",2012,2757375.41
 "Cawayan","Masbate",2013,1091682.5
-"Cebu  City","Cebu",2014,99945054.9
-"Cebu  City","Cebu",2015,6289843836
-"Cebu  City","Cebu",2016,9268171251.59
-"Cebu  City","Cebu",2017,50021809.49
-"Cebu  City","Cebu",2018,829301126.21
-"Cebu  City","Cebu",2011,137682304.41
-"Cebu  City","Cebu",2012,100789344.03
-"Cebu  City","Cebu",2013,101081980.02
+"Cebu City","Cebu",2014,99945054.9
+"Cebu City","Cebu",2015,6289843836
+"Cebu City","Cebu",2016,9268171251.59
+"Cebu City","Cebu",2017,50021809.49
+"Cebu City","Cebu",2018,829301126.21
+"Cebu City","Cebu",2011,137682304.41
+"Cebu City","Cebu",2012,100789344.03
+"Cebu City","Cebu",2013,101081980.02
 "City of Manila","Manila",2013,38.48
 "City of Manila","Manila",2014,7.25
 "City of Manila","Manila",2015,3.84
@@ -1319,7 +1319,7 @@
 "Concepcion","Romblon",2017,0
 "Concepcion","Tarlac",2012,687405.3
 "Concepcion","Tarlac",2015,23634
-"Concepcion",NA,2019,3.63
+"Concepcion","Iloilo",2019,3.63
 "Conner","Apayao",2014,4291240.36
 "Conner","Apayao",2017,40000
 "Conner","Apayao",2019,115809.12
@@ -1357,14 +1357,14 @@
 "Cortes","Surigao del Sur",2011,640507.58
 "Cortes","Surigao del Sur",2012,1824711.77
 "Cortes","Surigao del Sur",2013,11198
-"Cotabato  City","North Cotabato",2019,0
-"Cotabato  City","North Cotabato",2010,0
-"Cotabato  City","North Cotabato",2011,0
-"Cotabato  City","North Cotabato",2012,0
-"Cotabato  City","North Cotabato",2013,0
-"Cotabato  City","North Cotabato",2014,121910071.07
-"Cotabato  City","North Cotabato",2015,0
-"Cotabato  City","North Cotabato",2016,234507401.13
+"Cotabato City","North Cotabato",2019,0
+"Cotabato City","North Cotabato",2010,0
+"Cotabato City","North Cotabato",2011,0
+"Cotabato City","North Cotabato",2012,0
+"Cotabato City","North Cotabato",2013,0
+"Cotabato City","North Cotabato",2014,121910071.07
+"Cotabato City","North Cotabato",2015,0
+"Cotabato City","North Cotabato",2016,234507401.13
 "Culaba","Biliran",2011,2532249.23
 "Culaba","Biliran",2012,3152853.83
 "Culaba","Biliran",2013,0
@@ -1387,7 +1387,7 @@
 "Cuyo","Palawan",2016,3783774.38
 "Cuyo","Palawan",2018,0
 "Cuyo","Palawan",2019,425500
-"Cuyo","Palawan",20,3802119.58
+"Cuyo","Palawan",2017,3802119.58
 "Doña Remedios Trinidad","Bulacan",2017,4950000
 "Don Salvador Benedicto","Negros Occidental",2013,2051710
 "Don Salvador Benedicto","Negros Occidental",2014,13272980.44
@@ -1407,10 +1407,10 @@
 "Daguioman","Abra",2017,268224.02
 "Daguioman","Abra",2018,224506.1
 "Daguioman","Abra",2019,261371.6
-"Dagupan  City","Pangasinan",2015,2517971.88
-"Dagupan  City","Pangasinan",2016,1927810.37
-"Dagupan  City","Pangasinan",2017,1875354.29
-"Dagupan  City","Pangasinan",2014,2307094.86
+"Dagupan City","Pangasinan",2015,2517971.88
+"Dagupan City","Pangasinan",2016,1927810.37
+"Dagupan City","Pangasinan",2017,1875354.29
+"Dagupan City","Pangasinan",2014,2307094.86
 "Dalaguete","Cebu",2010,2978547.84
 "Dalaguete","Cebu",2012,8477822.52
 "Dalaguete","Cebu",2013,4238911.26
@@ -1420,7 +1420,7 @@
 "Danao","Bohol",2011,0
 "Danao","Bohol",2012,1341392
 "Danao","Bohol",2016,3.14
-"Danao  City","Cebu",2010,1423228
+"Danao City","Cebu",2010,1423228
 "Dangcagan","Bukidnon",2014,4446694.97
 "Dangcagan","Bukidnon",2015,4273769.67
 "Dangcagan","Bukidnon",2016,4122409.88
@@ -1432,10 +1432,10 @@
 "Danglas","Abra",2012,995329
 "Danglas","Abra",2013,995329
 "Dapa","Surigao del Norte",2017,1317233.84
-"Dapitan  City","Zamboanga del Norte",2010,37653412.28
-"Dapitan  City","Zamboanga del Norte",2013,15227440.82
-"Dapitan  City","Zamboanga del Norte",2011,92411281.3
-"Dapitan  City","Zamboanga del Norte",2012,9260987.2
+"Dapitan City","Zamboanga del Norte",2010,37653412.28
+"Dapitan City","Zamboanga del Norte",2013,15227440.82
+"Dapitan City","Zamboanga del Norte",2011,92411281.3
+"Dapitan City","Zamboanga del Norte",2012,9260987.2
 "Daraga","Albay",2012,579230.98
 "Daraga","Albay",2020,3.61
 "Daram","Samar",2012,21687972.67
@@ -1488,8 +1488,8 @@
 "Diffun","Quirino",2016,0
 "Diffun","Quirino",2017,6117613.97
 "Diffun","Quirino",2018,6722046.4
-"Digos  City","Davao del Sur",2012,4815230.28
-"Digos  City","Davao del Sur",2013,0
+"Digos City","Davao del Sur",2012,4815230.28
+"Digos City","Davao del Sur",2013,0
 "Dilasag","Aurora",2012,1325244.4
 "Dilasag","Aurora",2013,835835.91
 "Dilasag","Aurora",2014,1959403.24
@@ -1559,14 +1559,14 @@
 "Diplahan","Zamboanga Sibugay",2013,209247
 "Diplahan","Zamboanga Sibugay",2018,203409.24
 "Diplahan","Zamboanga Sibugay",2019,0
-"Dipolog  City","Zamboanga del Norte",2019,0.77
-"Dipolog  City","Zamboanga del Norte",2020,261467.06
-"Dipolog  City","Zamboanga del Norte",2014,8581902.29
-"Dipolog  City","Zamboanga del Norte",2015,11656505.67
-"Dipolog  City","Zamboanga del Norte",2016,9313070.12
-"Dipolog  City","Zamboanga del Norte",2017,13024762.42
-"Dipolog  City","Zamboanga del Norte",2018,955768.15
-"Dipolog  City","Zamboanga del Norte",2012,27149411.59
+"Dipolog City","Zamboanga del Norte",2019,0.77
+"Dipolog City","Zamboanga del Norte",2020,261467.06
+"Dipolog City","Zamboanga del Norte",2014,8581902.29
+"Dipolog City","Zamboanga del Norte",2015,11656505.67
+"Dipolog City","Zamboanga del Norte",2016,9313070.12
+"Dipolog City","Zamboanga del Norte",2017,13024762.42
+"Dipolog City","Zamboanga del Norte",2018,955768.15
+"Dipolog City","Zamboanga del Norte",2012,27149411.59
 "Divilacan","Isabela",2010,0
 "Divilacan","Isabela",2011,496971.34
 "Divilacan","Isabela",2015,524708.16
@@ -1575,7 +1575,7 @@
 "Dolores","Eastern Samar",2015,3152893.94
 "Dolores","Eastern Samar",2017,1612960.2
 "Dolores","Quezon",2014,565635.5
-"Dolores",NA,2019,10896787.9
+"Dolores","Eastern Samar",2019,10896787.9
 "Don Victoriano","Misamis Occidental",2019,46666214
 "Don Victoriano","Misamis Occidental",2020,78943634.96
 "Don Carlos","Bukidnon",2012,0
@@ -1604,11 +1604,11 @@
 "Dulag","Leyte",2011,1200091.04
 "Dulag","Leyte",2014,247545.84
 "Dulag","Leyte",2016,14548
-"Dumaguete  City","Negros Oriental",2011,57319647.2
-"Dumaguete  City","Negros Oriental",2012,160.36
-"Dumaguete  City","Negros Oriental",2015,177.8
-"Dumaguete  City","Negros Oriental",2016,88.75
-"Dumaguete  City","Negros Oriental",2017,23166256.02
+"Dumaguete City","Negros Oriental",2011,57319647.2
+"Dumaguete City","Negros Oriental",2012,160.36
+"Dumaguete City","Negros Oriental",2015,177.8
+"Dumaguete City","Negros Oriental",2016,88.75
+"Dumaguete City","Negros Oriental",2017,23166256.02
 "Dumalag","Capiz",2010,1135098.84
 "Dumalag","Capiz",2011,1257475.48
 "Dumalag","Capiz",2012,2625193.88
@@ -1695,8 +1695,8 @@
 "Enrique B. Magalona","Negros Occidental",2020,1290413.17
 "Enrique Villanueva","Siquijor",2019,1671196.07
 "Enrique Villanueva","Siquijor",2015,598000
-"Escalante  City","Negros Occidental",2013,1452601.68
-"Escalante  City","Negros Occidental",2017,0
+"Escalante City","Negros Occidental",2013,1452601.68
+"Escalante City","Negros Occidental",2017,0
 "Esperanza","Agusan del Sur",2010,0
 "Esperanza","Agusan del Sur",2011,3190789.34
 "Esperanza","Agusan del Sur",2013,0
@@ -1714,7 +1714,7 @@
 "Esperanza","Sultan Kudarat",2013,0
 "Esperanza","Sultan Kudarat",2014,2754712.18
 "Esperanza","Sultan Kudarat",2015,1547451.39
-"Esperanza",NA,2020,8.64
+"Esperanza","Masbate",2020,8.64
 "Famy","Laguna",2010,267550.31
 "Famy","Laguna",2011,344310.28
 "Famy","Laguna",2013,323240
@@ -1756,13 +1756,13 @@
 "Gandara","Samar",2014,1506246.28
 "Gandara","Samar",2015,166683.26
 "Gandara","Samar",2016,0
-"Gapan  City","Nueva Ecija",2020,61257604.06
-"Gapan  City","Nueva Ecija",2012,0
-"Gapan  City","Nueva Ecija",2013,0
-"Gapan  City","Nueva Ecija",2015,3660268.17
-"Gapan  City","Nueva Ecija",2017,3308059.74
-"Gapan  City","Nueva Ecija",2019,6832552.81
-"Gapan  City","Nueva Ecija",2016,9782295.49
+"Gapan City","Nueva Ecija",2020,61257604.06
+"Gapan City","Nueva Ecija",2012,0
+"Gapan City","Nueva Ecija",2013,0
+"Gapan City","Nueva Ecija",2015,3660268.17
+"Gapan City","Nueva Ecija",2017,3308059.74
+"Gapan City","Nueva Ecija",2019,6832552.81
+"Gapan City","Nueva Ecija",2016,9782295.49
 "Garchitorena","Camarines Sur",2010,357163.97
 "Garchitorena","Camarines Sur",2011,1828505.82
 "Garchitorena","Camarines Sur",2012,0
@@ -1816,9 +1816,9 @@
 "Ginatilan","Cebu",2010,2660
 "Ginatilan","Cebu",2012,202610.26
 "Ginatilan","Cebu",2017,0
-"Gingoog  City","Misamis Oriental",2020,12.11
-"Gingoog  City","Misamis Oriental",2016,51795831
-"Gingoog  City","Misamis Oriental",2010,1192593.85
+"Gingoog City","Misamis Oriental",2020,12.11
+"Gingoog City","Misamis Oriental",2016,51795831
+"Gingoog City","Misamis Oriental",2010,1192593.85
 "Giporlos","Eastern Samar",2015,1366250.32
 "Glan","Sarangani",2010,6152893.25
 "Glan","Sarangani",2012,13930887.09
@@ -1853,11 +1853,11 @@
 "Gubat","Sorsogon",2010,0
 "Gubat","Sorsogon",2013,0
 "Guiguinto","Bulacan",2016,592140
-"Guihulngan  City","Negros Oriental",2010,3672002.98
-"Guihulngan  City","Negros Oriental",2012,58689614.13
-"Guihulngan  City","Negros Oriental",2014,87130416.25
-"Guihulngan  City","Negros Oriental",2016,51.1
-"Guihulngan  City","Negros Oriental",2013,40413741.57
+"Guihulngan City","Negros Oriental",2010,3672002.98
+"Guihulngan City","Negros Oriental",2012,58689614.13
+"Guihulngan City","Negros Oriental",2014,87130416.25
+"Guihulngan City","Negros Oriental",2016,51.1
+"Guihulngan City","Negros Oriental",2013,40413741.57
 "Guimba","Nueva Ecija",2013,0
 "Guimba","Nueva Ecija",2019,0
 "Guimbal","Iloilo",2013,3160070.28
@@ -1918,13 +1918,13 @@
 "Hernani","Eastern Samar",2018,53820
 "Hilongos","Leyte",2011,6416842.8
 "Hilongos","Leyte",2012,3163435.8
-"Himamaylan  City","Negros Occidental",2019,2364001.77
-"Himamaylan  City","Negros Occidental",2011,211299408.23
-"Himamaylan  City","Negros Occidental",2012,3279647.36
-"Himamaylan  City","Negros Occidental",2013,7019177.02
-"Himamaylan  City","Negros Occidental",2015,3470320.16
-"Himamaylan  City","Negros Occidental",2016,11242739.59
-"Himamaylan  City","Negros Occidental",2018,21624079.19
+"Himamaylan City","Negros Occidental",2019,2364001.77
+"Himamaylan City","Negros Occidental",2011,211299408.23
+"Himamaylan City","Negros Occidental",2012,3279647.36
+"Himamaylan City","Negros Occidental",2013,7019177.02
+"Himamaylan City","Negros Occidental",2015,3470320.16
+"Himamaylan City","Negros Occidental",2016,11242739.59
+"Himamaylan City","Negros Occidental",2018,21624079.19
 "Hinabangan","Samar",2015,43738095.85
 "Hinabangan","Samar",2017,45950214.02
 "Hinabangan","Samar",2018,0
@@ -1957,7 +1957,7 @@
 "Island Garden City of Samal","Davao del Norte",2012,0
 "Island Garden City of Samal","Davao del Norte",2011,23503855.5
 "Iba","Zambales",2017,6291666
-"Ibajay","Aklan",201,95472.12
+"Ibajay","Aklan",2015,95472.12
 "Ibajay","Aklan",2010,404168.96
 "Ibajay","Aklan",2011,374931.28
 "Ibajay","Aklan",2012,291203.04
@@ -1981,36 +1981,36 @@
 "Iguig","Cagayan",2019,0
 "Ilagan","Isabela",2010,7044140.3
 "Ilagan","Isabela",2011,12843615.56
-"Ilagan  City","Isabela",2012,0
-"Ilagan  City","Isabela",2013,7243154.73
-"Ilagan  City","Isabela",2015,5154105.14
-"Ilagan  City","Isabela",2016,4833153.52
-"Ilagan  City","Isabela",2018,0
-"Ilagan  City","Isabela",2019,17361817.92
-"Iligan  City","Lanao del Norte",2019,890433264.37
-"Iligan  City","Lanao del Norte",2020,1842760350.57
-"Iligan  City","Lanao del Norte",2012,35725707.01
-"Iligan  City","Lanao del Norte",2013,0
-"Iligan  City","Lanao del Norte",2015,11942235.91
-"Iligan  City","Lanao del Norte",2016,14172494
-"Iligan  City","Lanao del Norte",2017,168915492.4
-"Iligan  City","Lanao del Norte",2018,455822732.66
-"Iligan  City","Lanao del Norte",2010,21547425.97
-"Iligan  City","Lanao del Norte",2011,0
+"Ilagan City","Isabela",2012,0
+"Ilagan City","Isabela",2013,7243154.73
+"Ilagan City","Isabela",2015,5154105.14
+"Ilagan City","Isabela",2016,4833153.52
+"Ilagan City","Isabela",2018,0
+"Ilagan City","Isabela",2019,17361817.92
+"Iligan City","Lanao del Norte",2019,890433264.37
+"Iligan City","Lanao del Norte",2020,1842760350.57
+"Iligan City","Lanao del Norte",2012,35725707.01
+"Iligan City","Lanao del Norte",2013,0
+"Iligan City","Lanao del Norte",2015,11942235.91
+"Iligan City","Lanao del Norte",2016,14172494
+"Iligan City","Lanao del Norte",2017,168915492.4
+"Iligan City","Lanao del Norte",2018,455822732.66
+"Iligan City","Lanao del Norte",2010,21547425.97
+"Iligan City","Lanao del Norte",2011,0
 "Ilog","Negros Occidental",2012,201446.5
 "Ilog","Negros Occidental",2014,267719.44
 "Ilog","Negros Occidental",2015,740347.92
 "Ilog","Negros Occidental",2016,3143569.92
 "Ilog","Negros Occidental",2017,631696.48
 "Ilog","Negros Occidental",2018,1146670.1
-"Iloilo  City","Iloilo",2019,2.33
-"Iloilo  City","Iloilo",2020,2.06
-"Iloilo  City","Iloilo",2015,29938227.8
-"Iloilo  City","Iloilo",2016,71451537.13
-"Iloilo  City","Iloilo",2017,822826523.34
-"Iloilo  City","Iloilo",2018,77811004.6
-"Iloilo  City","Iloilo",2012,188178517.9
-"Iloilo  City","Iloilo",2013,0
+"Iloilo City","Iloilo",2019,2.33
+"Iloilo City","Iloilo",2020,2.06
+"Iloilo City","Iloilo",2015,29938227.8
+"Iloilo City","Iloilo",2016,71451537.13
+"Iloilo City","Iloilo",2017,822826523.34
+"Iloilo City","Iloilo",2018,77811004.6
+"Iloilo City","Iloilo",2012,188178517.9
+"Iloilo City","Iloilo",2013,0
 "Imelda","Zamboanga Sibugay",2010,10538.69
 "Imelda","Zamboanga Sibugay",2011,726578.17
 "Imelda","Zamboanga Sibugay",2012,714437.02
@@ -2021,7 +2021,7 @@
 "Impasugong","Bukidnon",2017,2401819.42
 "Impasugong","Bukidnon",2019,7644198.8
 "Impasugong","Bukidnon",2020,0
-"Imus  City","Cavite",2015,43200
+"Imus City","Cavite",2015,43200
 "Inabanga","Bohol",2010,8384113.63
 "Inabanga","Bohol",2011,5399547.96
 "Inabanga","Bohol",2012,6801023.72
@@ -2041,16 +2041,16 @@
 "Ipil","Zamboanga Sibugay",2012,3779505.1
 "Ipil","Zamboanga Sibugay",2015,5883170.97
 "Ipil","Zamboanga Sibugay",2017,15601467.49
-"Iriga  City","Camarines Sur",2010,0
-"Iriga  City","Camarines Sur",2011,30326603.96
-"Iriga  City","Camarines Sur",2012,41391796.47
-"Iriga  City","Camarines Sur",2018,69.71
+"Iriga City","Camarines Sur",2010,0
+"Iriga City","Camarines Sur",2011,30326603.96
+"Iriga City","Camarines Sur",2012,41391796.47
+"Iriga City","Camarines Sur",2018,69.71
 "Irosin","Sorsogon",2011,604554.9
 "Isabel","Leyte",2012,0
 "Isabel","Leyte",2014,7602382.7
 "Isabel","Leyte",2015,357869681.7
 "Isabel","Leyte",2020,12114586.9
-"Isabel","Leyte",20,0
+"Isabel","Leyte",2017,0
 "Isabela","Negros Occidental",2010,2377015.9
 "Isabela","Negros Occidental",2011,3112729.84
 "Isabela","Negros Occidental",2012,5772221.89
@@ -2058,14 +2058,14 @@
 "Isabela","Negros Occidental",2017,0
 "Isabela","Negros Occidental",2018,0
 "Isabela","Negros Occidental",2019,19478661.48
-"Isabela  City",NA,2019,64232137
-"Isabela  City",NA,2020,64307510.37
+"Isabela City","Negros Occidental",2019,64232137
+"Isabela City","Negros Occidental",2020,64307510.37
 "Isabela","Negros Occidental",2013,3874810.26
-"Isabela  City","Basilan",2014,0
-"Isabela  City","Basilan",2017,218207360.4
-"Isabela  City","Basilan",2018,1019347273.31
-"Isabela  City","Zamboanga Sibugay",2011,10813953
-"Isabela  City","Zamboanga Sibugay",2013,0
+"Isabela City","Basilan",2014,0
+"Isabela City","Basilan",2017,218207360.4
+"Isabela City","Basilan",2018,1019347273.31
+"Isabela City","Zamboanga Sibugay",2011,10813953
+"Isabela City","Zamboanga Sibugay",2013,0
 "Isulan","Sultan Kudarat",2013,5491434.38
 "Isulan","Sultan Kudarat",2014,95536393.37
 "Isulan","Sultan Kudarat",2015,15726748.5
@@ -2162,15 +2162,15 @@
 "Kabacan","Cotabato",2015,4957611.79
 "Kabacan","Cotabato",2016,290081529.04
 "Kabacan","Cotabato",2017,0
-"Kabankalan  City","Negros Occidental",2010,0
-"Kabankalan  City","Negros Occidental",2011,0
-"Kabankalan  City","Negros Occidental",2012,0
-"Kabankalan  City","Negros Occidental",2013,6360975.28
-"Kabankalan  City","Negros Occidental",2014,4054694.31
-"Kabankalan  City","Negros Occidental",2015,7655715.14
-"Kabankalan  City","Negros Occidental",2016,12505920.97
-"Kabankalan  City","Negros Occidental",2017,24475933.14
-"Kabankalan  City","Negros Occidental",2018,12893903.98
+"Kabankalan City","Negros Occidental",2010,0
+"Kabankalan City","Negros Occidental",2011,0
+"Kabankalan City","Negros Occidental",2012,0
+"Kabankalan City","Negros Occidental",2013,6360975.28
+"Kabankalan City","Negros Occidental",2014,4054694.31
+"Kabankalan City","Negros Occidental",2015,7655715.14
+"Kabankalan City","Negros Occidental",2016,12505920.97
+"Kabankalan City","Negros Occidental",2017,24475933.14
+"Kabankalan City","Negros Occidental",2018,12893903.98
 "Kabasalan","Zamboanga Sibugay",2011,9544493.7
 "Kabasalan","Zamboanga Sibugay",2013,0
 "Kabasalan","Zamboanga Sibugay",2015,1640292.7
@@ -2255,10 +2255,10 @@
 "Kibawe","Bukidnon",2017,0
 "Kiblawan","Davao del Sur",2012,307883.02
 "Kiblawan","Davao del Sur",2014,765274.35
-"Kidapawan  City","Cotabato",2010,37888928.65
-"Kidapawan  City","Cotabato",2014,16.51
-"Kidapawan  City","Cotabato",2016,4
-"Kidapawan  City","Cotabato",2012,212066022.66
+"Kidapawan City","Cotabato",2010,37888928.65
+"Kidapawan City","Cotabato",2014,16.51
+"Kidapawan City","Cotabato",2016,4
+"Kidapawan City","Cotabato",2012,212066022.66
 "Kitaotao","Bukidnon",2016,11084539.77
 "Kitaotao","Bukidnon",2017,0
 "Kitaotao","Bukidnon",2018,0
@@ -2271,10 +2271,10 @@
 "Kolambugan","Lanao del Norte",2017,4059622.84
 "Kolambugan","Lanao del Norte",2018,0
 "Kolambugan","Lanao del Norte",2019,231750338.69
-"Koronadal  City","South Cotabato",2014,45912146.59
-"Koronadal  City","South Cotabato",2015,0
-"Koronadal  City","South Cotabato",2013,35747292.09
-"Koronadal  City","South Cotabato",2012,3081486.26
+"Koronadal City","South Cotabato",2014,45912146.59
+"Koronadal City","South Cotabato",2015,0
+"Koronadal City","South Cotabato",2013,35747292.09
+"Koronadal City","South Cotabato",2012,3081486.26
 "Kumalarang","Zamboanga del Sur",2010,370000
 "Kumalarang","Zamboanga del Sur",2012,3995546.65
 "Kumalarang","Zamboanga del Sur",2013,1106072.38
@@ -2282,17 +2282,17 @@
 "Kumalarang","Zamboanga del Sur",2016,2750048.86
 "Kumalarang","Zamboanga del Sur",2017,4.82
 "Kumalarang","Zamboanga del Sur",2018,2.66
-"La Carlota  City","Negros Occidental",2019,1698098406.9
+"La Carlota City","Negros Occidental",2019,1698098406.9
 "La Castellana","Negros Occidental",2019,46551492.86
-"La Libertad",NA,2019,0.06
-"La Paz",NA,2019,1015098.26
-"La Carlota  City","Negros Occidental",2012,23098643.33
-"La Carlota  City","Negros Occidental",2013,27827727.16
-"La Carlota  City","Negros Occidental",2014,252242278.59
-"La Carlota  City","Negros Occidental",2015,4628545.73
-"La Carlota  City","Negros Occidental",2016,23339628.9
-"La Carlota  City","Negros Occidental",2017,675522018.67
-"La Carlota  City","Negros Occidental",2018,13260147.92
+"La Libertad","Negros Oriental",2019,0.06
+"La Paz","Leyte",2019,1015098.26
+"La Carlota City","Negros Occidental",2012,23098643.33
+"La Carlota City","Negros Occidental",2013,27827727.16
+"La Carlota City","Negros Occidental",2014,252242278.59
+"La Carlota City","Negros Occidental",2015,4628545.73
+"La Carlota City","Negros Occidental",2016,23339628.9
+"La Carlota City","Negros Occidental",2017,675522018.67
+"La Carlota City","Negros Occidental",2018,13260147.92
 "La Castellana","Negros Occidental",2013,6450614.22
 "La Castellana","Negros Occidental",2016,0
 "La Castellana","Negros Occidental",2017,0
@@ -2393,9 +2393,9 @@
 "Lambunao","Iloilo",2018,0
 "Lambunao","Iloilo",2019,17.56
 "Lambunao","Iloilo",2020,15.29
-"Lamitan  City","Basilan",2010,4302305.56
-"Lamitan  City","Basilan",2015,97327
-"Lamitan  City","Basilan",2016,253914
+"Lamitan City","Basilan",2010,4302305.56
+"Lamitan City","Basilan",2015,97327
+"Lamitan City","Basilan",2016,253914
 "Lamut","Ifugao",2016,125453.99
 "Langiden","Abra",2011,27496.73
 "Langiden","Abra",2013,140042
@@ -2414,8 +2414,8 @@
 "Laoac","Pangasinan",2014,2022776.78
 "Laoac","Pangasinan",2015,453942.48
 "Laoac","Pangasinan",2018,0
-"Laoag  City","Ilocos Norte",2012,0
-"Laoag  City","Ilocos Norte",2013,0
+"Laoag City","Ilocos Norte",2012,0
+"Laoag City","Ilocos Norte",2013,0
 "Laoang","Northern Samar",2012,1885577.19
 "Laoang","Northern Samar",2013,1616551.6
 "Laoang","Northern Samar",2014,1149466
@@ -2492,13 +2492,13 @@
 "Leganes","Iloilo",2017,550000
 "Leganes","Iloilo",2018,5576638.13
 "Leganes","Iloilo",2019,145.85
-"Legazpi  City","Albay",2020,11.17
-"Legazpi  City","Albay",2010,109120
+"Legazpi City","Albay",2020,11.17
+"Legazpi City","Albay",2010,109120
 "Lemery","Batangas",2018,5201210.81
 "Lemery","Iloilo",2014,3306665.4
 "Lemery","Iloilo",2015,45201729.73
 "Lemery","Iloilo",2016,55071631.66
-"Lemery",NA,2013,3601279.89
+"Lemery","Iloilo",2013,3601279.89
 "Leon","Iloilo",2012,0
 "Leon","Iloilo",2019,0
 "Leon","Iloilo",2020,0
@@ -2560,19 +2560,19 @@
 "Licuan-Baay","Abra",2011,5294850.84
 "Licuan-Baay","Abra",2015,2564059.6
 "Lidlidda","Ilocos Sur",2012,163841.66
-"Ligao  City","Albay",2020,0
-"Ligao  City","Albay",2012,0
+"Ligao City","Albay",2020,0
+"Ligao City","Albay",2012,0
 "Lila","Bohol",2012,1205724.18
 "Liliw","Laguna",2011,67190
 "Liliw","Laguna",2018,29120
-"Lilo-an","Cebu",2010,1741673.91
+"Liloan","Cebu",2010,1741673.91
 "Liloan","Cebu",2012,9998263.74
 "Liloan","Cebu",2013,6212656.74
 "Liloan","Cebu",2014,3526516.98
 "Liloan","Southern Leyte",2012,61124.45
 "Liloan","Southern Leyte",2014,1932454.1
 "Liloan","Southern Leyte",2015,86026726.05
-"Liloan",NA,2019,9900
+"Liloan","Southern Leyte",2019,9900
 "Liloy","Zamboanga del Norte",2010,0
 "Liloy","Zamboanga del Norte",2017,0
 "Limasawa","Southern Leyte",2010,0
@@ -2601,7 +2601,7 @@
 "Lingig","Surigao del Sur",2011,6598141.81
 "Lingig","Surigao del Sur",2012,0
 "Lingig","Surigao del Sur",2014,0
-"Lipa  City","Batangas",2017,0
+"Lipa City","Batangas",2017,0
 "Llanera","Nueva Ecija",2010,2553131.93
 "Llanera","Nueva Ecija",2011,1.3
 "Llanera","Nueva Ecija",2012,1450341.2
@@ -2633,7 +2633,7 @@
 "Looc","Romblon",2014,241554
 "Looc","Romblon",2017,0
 "Looc","Romblon",2018,0
-"Looc",NA,2019,0
+"Looc","Romblon",2019,0
 "Loon","Bohol",2010,1482749.91
 "Loon","Bohol",2013,12202602.72
 "Loon","Bohol",2018,35011328.64
@@ -2641,70 +2641,70 @@
 "Lope de Vega","Northern Samar",2013,2220217.84
 "Lope de Vega","Northern Samar",2011,1746764
 "Lope de Vega","Northern Samar",2012,2963832
-"Maelang","Northern Samar",2015,17659596.55
-"Maelang","Quezon",2013,3663461.34
-"Maelang","Agusan del Sur",2011,0
-"Maelang","Agusan del Sur",2012,0
-"Maelang","Agusan del Sur",2013,0
-"Maelang","Agusan del Sur",2014,0
-"Maelang","Agusan del Sur",2015,0
-"Maelang","Agusan del Sur",2016,0
-"Maelang","Agusan del Sur",2017,0
-"Maelang","Agusan del Sur",2018,0
-"Maelang","Dinagat Islands",2012,3210310.32
-"Maelang",NA,2019,0
-"Maelang","Abra",2010,0
-"Maelang","Abra",2011,0
-"Maelang","Abra",2012,4.25
-"Maelang","Abra",2016,513587.43
-"Maelang","Abra",2018,187446
-"Maelang","Pampanga",2012,10.5
-"Maelang","Pampanga",2013,695494
-"Maelang","Kalinga",2011,0
-"Maelang","Kalinga",2015,4366836.74
-"Maelang","Quezon",2011,246477.9
-"Maelang","Quezon",2019,69500
-"Maelang","Quezon",2011,4158111.76
-"Maelang",NA,2013,612070
-"Maelang","Misamis Oriental",2011,668724.91
-"Maelang","Misamis Oriental",2012,422745.48
-"Maelang","Laguna",2010,50000
-"Maelang","Laguna",2011,128143
-"Maelang","Laguna",2012,0
-"Maelang","Laguna",2014,434052.18
-"Maelang","Laguna",2015,421602.18
-"Maelang","Laguna",2017,3687174.49
-"Maelang","Laguna",2018,13800
-"Maelang","Laguna",2019,477998.64
-"Maelang","Lanao del Sur",2011,250000
-"Maelang","Lanao del Sur",2010,8908898
-"Maelang",NA,2020,0
-"Maelang","Apayao",2010,11999285.62
-"Maelang","Apayao",2011,12283014.72
-"Maelang","Apayao",2012,15629306.45
-"Maelang","Isabela",2015,2318443.53
-"Maelang","La Union",2018,1441700
-"Maelang","Nueva Ecija",2010,9780163.1
-"Maelang","Nueva Ecija",2011,16792837.43
-"Maelang","Nueva Ecija",2012,0
-"Maelang","Nueva Ecija",2013,16898604.44
-"Maelang","Nueva Ecija",2014,1701257.36
-"Maelang","Nueva Ecija",2015,1595624
-"Maelang","Nueva Ecija",2017,33640012.53
-"Maelang","Nueva Ecija",2018,124541378.74
-"Maelang","Nueva Ecija",2019,33470602.62
-"Maelang","Camarines Sur",2010,592270
-"Maelang","Camarines Sur",2012,387218.38
-"Maelang","Davao Oriental",2010,15842200.08
-"Maelang","Davao Oriental",2013,18445376.98
-"Maelang","Davao Oriental",2014,254303303.72
-"Maelang","Davao Oriental",2015,46456970.21
-"Maelang","Davao Oriental",2016,296753377.47
-"Maelang","Davao Oriental",2017,3866232.43
-"Maelang","Davao Oriental",2012,5584391.43
-"Maelang","Sultan Kudarat",2015,0
-"Maelang","Sultan Kudarat",2017,983060
-"Maelang",NA,39,240020443.09
+"Lope de Vega","Northern Samar",2015,17659596.55
+"Lopez","Quezon",2013,3663461.34
+"Loreto","Agusan del Sur",2011,0
+"Loreto","Agusan del Sur",2012,0
+"Loreto","Agusan del Sur",2013,0
+"Loreto","Agusan del Sur",2014,0
+"Loreto","Agusan del Sur",2015,0
+"Loreto","Agusan del Sur",2016,0
+"Loreto","Agusan del Sur",2017,0
+"Loreto","Agusan del Sur",2018,0
+"Loreto","Dinagat Islands",2012,3210310.32
+"Loreto","Agusan del Sur",2019,0
+"Luba","Abra",2010,0
+"Luba","Abra",2011,0
+"Luba","Abra",2012,4.25
+"Luba","Abra",2016,513587.43
+"Luba","Abra",2018,187446
+"Lubao","Pampanga",2012,10.5
+"Lubao","Pampanga",2013,695494
+"Lubuagan","Kalinga",2011,0
+"Lubuagan","Kalinga",2015,4366836.74
+"Lucban","Quezon",2011,246477.9
+"Lucban","Quezon",2019,69500
+"Lucena City","Quezon",2011,4158111.76
+"Lucena City","Quezon",2013,612070
+"Lugait","Misamis Oriental",2011,668724.91
+"Lugait","Misamis Oriental",2012,422745.48
+"Luisiana","Laguna",2010,50000
+"Luisiana","Laguna",2011,128143
+"Lumban","Laguna",2012,0
+"Lumban","Laguna",2014,434052.18
+"Lumban","Laguna",2015,421602.18
+"Lumban","Laguna",2017,3687174.49
+"Lumban","Laguna",2018,13800
+"Lumban","Laguna",2019,477998.64
+"Lumbatan","Lanao del Sur",2011,250000
+"Lumbayanague","Lanao del Sur",2010,8908898
+"Lumbayanague","Lanao del Sur",2020,0
+"Luna","Apayao",2010,11999285.62
+"Luna","Apayao",2011,12283014.72
+"Luna","Apayao",2012,15629306.45
+"Luna","Isabela",2015,2318443.53
+"Luna","La Union",2018,1441700
+"Lupao","Nueva Ecija",2010,9780163.1
+"Lupao","Nueva Ecija",2011,16792837.43
+"Lupao","Nueva Ecija",2012,0
+"Lupao","Nueva Ecija",2013,16898604.44
+"Lupao","Nueva Ecija",2014,1701257.36
+"Lupao","Nueva Ecija",2015,1595624
+"Lupao","Nueva Ecija",2017,33640012.53
+"Lupao","Nueva Ecija",2018,124541378.74
+"Lupao","Nueva Ecija",2019,33470602.62
+"Lupi","Camarines Sur",2010,592270
+"Lupi","Camarines Sur",2012,387218.38
+"Lupon","Davao Oriental",2010,15842200.08
+"Lupon","Davao Oriental",2013,18445376.98
+"Lupon","Davao Oriental",2014,254303303.72
+"Lupon","Davao Oriental",2015,46456970.21
+"Lupon","Davao Oriental",2016,296753377.47
+"Lupon","Davao Oriental",2017,3866232.43
+"Lupon","Davao Oriental",2012,5584391.43
+"Lutayan","Sultan Kudarat",2015,0
+"Lutayan","Sultan Kudarat",2017,983060
+"M'lang","Cotabato",2020,240020443.09
 "Maasim","Sarangani",2014,34460652.38
 "Maasim","Sarangani",2018,0
 "Maasim","Sarangani",2019,24679.59
@@ -2715,17 +2715,17 @@
 "Maasin","Iloilo",2017,473390.31
 "Maasin","Iloilo",2018,18388310.76
 "Maasin","Iloilo",2019,1467479.29
-"Maasin  City","Southern Leyte",2019,70213870.84
-"Maasin  City","Leyte",2013,0
-"Maasin  City","Southern Leyte",2011,1239840.22
-"Maasin  City","Southern Leyte",2017,0
-"Maasin  City","Southern Leyte",2018,172500
+"Maasin City","Southern Leyte",2019,70213870.84
+"Maasin City","Southern Leyte",2013,0
+"Maasin City","Southern Leyte",2011,1239840.22
+"Maasin City","Southern Leyte",2017,0
+"Maasin City","Southern Leyte",2018,172500
 "Maayon","Capiz",2012,813890.85
 "Maayon","Capiz",2013,1289260.32
 "Maayon","Capiz",2015,827851
 "Maayon","Capiz",2017,433228.1
 "Maayon","Capiz",2018,459422.22
-"Mabalacat  City","Pampanga",2018,4026320
+"Mabalacat City","Pampanga",2018,4026320
 "Mabinay","Negros Oriental",2010,1993277.94
 "Mabinay","Negros Oriental",2011,2628425.94
 "Mabinay","Negros Oriental",2012,5272630.8
@@ -2740,7 +2740,7 @@
 "Mabini","Bohol",2018,1835410.8
 "Mabini","Compostela Valley",2012,7334487.8
 "Mabini","Compostela Valley",2013,0
-"Mabini",NA,2019,1541838
+"Mabini","Bohol",2019,1541838
 "Mabitac","Laguna",2012,49238.68
 "Mabitac","Laguna",2013,388101.67
 "Mabitac","Laguna",2014,68138.68
@@ -2790,8 +2790,8 @@
 "Magallanes","Sorsogon",2011,1935485.69
 "Magallanes","Sorsogon",2012,2363666.24
 "Magallanes","Sorsogon",2018,1.19
-"Magallanes",NA,2019,4499607.37
-"Magallanes",NA,2020,0
+"Magallanes","Agusan del Norte",2019,4499607.37
+"Magallanes","Sorsogon",2020,0
 "Magarao","Camarines Sur",2010,0
 "Magarao","Camarines Sur",2011,0
 "Magarao","Camarines Sur",2012,2602125.35
@@ -2880,10 +2880,10 @@
 "Majayjay","Laguna",2014,339000
 "Majayjay","Laguna",2019,3567865.87
 "Majayjay","Laguna",2020,16383053.8
-"Makati  City","Metro Manila",2016,6.63
-"Makati  City","Metro Manila",2013,220508742.36
-"Makati  City","Metro Manila",2014,1936.29
-"Makati  City","Metro Manila",2016,6.63
+"Makati City","Metro Manila",2016,6.63
+"Makati City","Metro Manila",2013,220508742.36
+"Makati City","Metro Manila",2014,1936.29
+"Makati City","Metro Manila",2016,6.63
 "Makato","Aklan",2010,559211.61
 "Makato","Aklan",2012,89349
 "Makato","Aklan",2015,307187.75
@@ -2898,10 +2898,10 @@
 "Malabang","Lanao del Sur",2012,0
 "Malabang","Lanao del Sur",2015,0
 "Malabang","Lanao del Sur",2017,0
-"Malabon  City","Metro Manila",2010,67.83
-"Malabon  City","Metro Manila",2011,20.33
-"Malabon  City","Metro Manila",2013,0
-"Malabon  City","Metro Manila",2014,0
+"Malabon City","Metro Manila",2010,67.83
+"Malabon City","Metro Manila",2011,20.33
+"Malabon City","Metro Manila",2013,0
+"Malabon City","Metro Manila",2014,0
 "Malabuyoc","Cebu",2011,445768
 "Malabuyoc","Cebu",2012,247355
 "Malabuyoc","Cebu",2015,237091
@@ -2924,9 +2924,9 @@
 "Malasiqui","Pangasinan",2019,487904.86
 "Malay","Aklan",2010,574786.97
 "Malay","Aklan",2011,372542.19
-"Malaybalay  City","Bukidnon",2010,6542875.79
-"Malaybalay  City","Bukidnon",2013,1123971.52
-"Malaybalay  City","Bukidnon",2016,2098531.74
+"Malaybalay City","Bukidnon",2010,6542875.79
+"Malaybalay City","Bukidnon",2013,1123971.52
+"Malaybalay City","Bukidnon",2016,2098531.74
 "Malibcong","Abra",2013,2033080
 "Malibcong","Abra",2014,518675.22
 "Malibcong","Abra",2015,503849.13
@@ -2957,8 +2957,8 @@
 "Mallig","Isabela",2018,2612816.9
 "Mallig","Isabela",2019,0
 "Mallig","Isabela",2020,1064712.19
-"Malolos  City","Bulacan",2017,0
-"Malolos  City","Bulacan",2018,0
+"Malolos City","Bulacan",2017,0
+"Malolos City","Bulacan",2018,0
 "Malungon","Sarangani",2013,543890.68
 "Malvar","Batangas",2019,119951
 "Mamasapano","Maguindanao",2010,385627.14
@@ -2985,32 +2985,32 @@
 "Manay","Davao Oriental",2018,8586569.31
 "Manay","Davao Oriental",2019,6396832.91
 "Manay","Davao Oriental",2020,5886336.01
-"Mandaluyong  City","Metro Manila",2020,25.27
-"Mandaluyong  City","Metro Manila",2010,168.2
-"Mandaluyong  City","Metro Manila",2011,37.33
-"Mandaluyong  City","Metro Manila",2013,37.18
-"Mandaluyong  City","Metro Manila",2014,37.9
-"Mandaluyong  City","Metro Manila",2015,0
-"Mandaluyong  City","Metro Manila",2016,24.67
-"Mandaluyong  City","Metro Manila",2017,47.11
-"Mandaluyong  City","Metro Manila",2018,42.76
-"Mandaluyong  City","Metro Manila",2019,35.55
+"Mandaluyong City","Metro Manila",2020,25.27
+"Mandaluyong City","Metro Manila",2010,168.2
+"Mandaluyong City","Metro Manila",2011,37.33
+"Mandaluyong City","Metro Manila",2013,37.18
+"Mandaluyong City","Metro Manila",2014,37.9
+"Mandaluyong City","Metro Manila",2015,0
+"Mandaluyong City","Metro Manila",2016,24.67
+"Mandaluyong City","Metro Manila",2017,47.11
+"Mandaluyong City","Metro Manila",2018,42.76
+"Mandaluyong City","Metro Manila",2019,35.55
 "Mandaon","Masbate",2010,4266819.97
 "Mandaon","Masbate",2011,1056513.9
 "Mandaon","Masbate",2012,5433068.68
 "Mandaon","Masbate",2013,15485919.08
 "Mandaon","Masbate",2018,0
 "Mandaon","Masbate",2020,0
-"Mandaue  City","Cebu",2019,16115000
-"Mandaue  City","Cebu",2020,0
-"Mandaue  City","Cebu",2011,0
-"Mandaue  City","Cebu",2012,29702007.16
-"Mandaue  City","Cebu",2013,35720299.66
-"Mandaue  City","Cebu",2014,6.6
-"Mandaue  City","Cebu",2015,7023008.18
-"Mandaue  City","Cebu",2016,54591493.66
-"Mandaue  City","Cebu",2017,10236960.2
-"Mandaue  City","Cebu",2010,8712076.55
+"Mandaue City","Cebu",2019,16115000
+"Mandaue City","Cebu",2020,0
+"Mandaue City","Cebu",2011,0
+"Mandaue City","Cebu",2012,29702007.16
+"Mandaue City","Cebu",2013,35720299.66
+"Mandaue City","Cebu",2014,6.6
+"Mandaue City","Cebu",2015,7023008.18
+"Mandaue City","Cebu",2016,54591493.66
+"Mandaue City","Cebu",2017,10236960.2
+"Mandaue City","Cebu",2010,8712076.55
 "Mangaldan","Pangasinan",2012,968867.77
 "Mangaldan","Pangasinan",2013,462626.83
 "Mangaldan","Pangasinan",2015,1166418
@@ -3019,9 +3019,9 @@
 "Mangatarem","Pangasinan",2015,524609
 "Mangatarem","Pangasinan",2016,0
 "Mangatarem","Pangasinan",2018,387012.06
-"Manila  City","Metro Manila",2012,89.66
-"Manila  City","Metro Manila",2017,360.56
-"Manila  City","Metro Manila",2018,0
+"Manila City","Metro Manila",2012,89.66
+"Manila City","Metro Manila",2017,360.56
+"Manila City","Metro Manila",2018,0
 "Manito","Albay",2012,994106.8
 "Manjuyod","Negros Oriental",2012,3197596.44
 "Manjuyod","Negros Oriental",2013,2254427.22
@@ -3068,17 +3068,17 @@
 "Maria Aurora","Aurora",2014,1274745.92
 "Marihatag","Surigao del Sur",2011,1258253.56
 "Marihatag","Surigao del Sur",2016,2417483.87
-"Marikina  City","Metro Manila",2020,10.2
-"Marikina  City","Metro Manila",2017,3.17
+"Marikina City","Metro Manila",2020,10.2
+"Marikina City","Metro Manila",2017,3.17
 "Marilao","Bulacan",2016,553800
 "Maripipi","Biliran",2011,2199562.87
 "Maripipi","Biliran",2012,0
 "Masantol","Pampanga",2012,3.23
 "Masantol","Pampanga",2013,7723984.93
 "Masantol","Pampanga",2017,1698400
-"Masbate  City","Masbate",2010,8099634.25
-"Masbate  City","Masbate",2013,3212594.64
-"Masbate  City","Masbate",2011,4422693.61
+"Masbate City","Masbate",2010,8099634.25
+"Masbate City","Masbate",2013,3212594.64
+"Masbate City","Masbate",2011,4422693.61
 "Masinloc","Zambales",2010,1171406.63
 "Masinloc","Zambales",2012,35104561.09
 "Masinloc","Zambales",2017,8015640.35
@@ -3090,7 +3090,7 @@
 "Matag-ob","Leyte",2013,136634.47
 "Matag-ob","Leyte",2015,14228075.02
 "Matag-ob","Leyte",2018,34
-"Matalam","Cotabato",10,188872710.55
+"Matalam","Cotabato",2010,188872710.55
 "Matalam","Cotabato",2011,2161732.35
 "Matalam","Cotabato",2012,3677220.98
 "Matalom","Leyte",2012,998921.81
@@ -3098,13 +3098,13 @@
 "Matanao","Davao del Sur",2017,5000000
 "Matanog","Maguindanao",2014,192878.45
 "Matanog","Maguindanao",2016,72498787.38
-"Mati  City","Davao Oriental",2020,0
-"Mati  City","Davao Oriental",2013,2543507.4
-"Mati  City","Davao Oriental",2016,6980833.07
-"Mati  City","Davao Oriental",2017,13137525.21
-"Mati  City","Davao Oriental",2018,39684935.26
-"Mati  City","Davao Oriental",2012,2095107.75
-"Mati  City","Davao Oriental",2010,571069.73
+"Mati City","Davao Oriental",2020,0
+"Mati City","Davao Oriental",2013,2543507.4
+"Mati City","Davao Oriental",2016,6980833.07
+"Mati City","Davao Oriental",2017,13137525.21
+"Mati City","Davao Oriental",2018,39684935.26
+"Mati City","Davao Oriental",2012,2095107.75
+"Mati City","Davao Oriental",2010,571069.73
 "Matnog","Sorsogon",2010,352502.4
 "Matnog","Sorsogon",2013,1.59
 "Matnog","Sorsogon",2018,8.36
@@ -3157,7 +3157,7 @@
 "Merida","Leyte",2019,904538.66
 "Mexico","Pampanga",2012,402154.97
 "Mexico","Pampanga",2013,200432026.72
-"Meycauayan  City","Bulacan",2019,26139835.43
+"Meycauayan City","Bulacan",2019,26139835.43
 "Miag-ao","Iloilo",2015,8376146.79
 "Miag-ao","Iloilo",2016,1354056.77
 "Miag-ao","Iloilo",2018,110105382
@@ -3233,14 +3233,14 @@
 "Motiong","Samar",2013,1208361.56
 "Motiong","Samar",2015,139564.41
 "Mulanay","Quezon",2011,20740
-"Muntinlupa  City","Metro Manila",2011,26.66
-"Muntinlupa  City","Metro Manila",2012,18.55
-"Muntinlupa  City","Metro Manila",2013,0
-"Muntinlupa  City","Metro Manila",2014,0
-"Muntinlupa  City","Metro Manila",2016,0
-"Muntinlupa  City","Metro Manila",2017,0
-"Muntinlupa  City","Metro Manila",2018,0
-"Muntinlupa  City","Metro Manila",2019,32.11
+"Muntinlupa City","Metro Manila",2011,26.66
+"Muntinlupa City","Metro Manila",2012,18.55
+"Muntinlupa City","Metro Manila",2013,0
+"Muntinlupa City","Metro Manila",2014,0
+"Muntinlupa City","Metro Manila",2016,0
+"Muntinlupa City","Metro Manila",2017,0
+"Muntinlupa City","Metro Manila",2018,0
+"Muntinlupa City","Metro Manila",2019,32.11
 "Murcia","Negros Occidental",2015,5913429.29
 "Murcia","Negros Occidental",2016,233199519.39
 "Murcia","Negros Occidental",2017,459131323.51
@@ -3272,13 +3272,13 @@
 "Naga","Zamboanga Sibugay",2016,224712.04
 "Naga","Zamboanga Sibugay",2017,50683263.45
 "Naga","Zamboanga Sibugay",2018,0
-"Naga  City","Camarines Sur",2012,0
-"Naga  City","Camarines Sur",2013,0
-"Naga  City","Cebu",2011,316800613.96
-"Naga  City","Cebu",2017,0
-"Naga  City",NA,2010,5748772.59
-"Naga  City",NA,2011,62128565.07
-"Naga  City",NA,2014,0
+"Naga City","Camarines Sur",2012,0
+"Naga City","Camarines Sur",2013,0
+"Naga City","Cebu",2011,316800613.96
+"Naga City","Cebu",2017,0
+"Naga City","Cebu",2010,5748772.59
+"Naga City","Camarines Sur",2011,62128565.07
+"Naga City","Cebu",2014,0
 "Nagcarlan","Laguna",2011,2750
 "Nagtipunan","Quirino",2010,51033055
 "Nagtipunan","Quirino",2011,54860635.34
@@ -3322,7 +3322,7 @@
 "Naval","Biliran",2014,0
 "Naval","Biliran",2017,4637957.01
 "Naval","Biliran",2019,0
-"New  Lucena","Iloilo",2019,181830.03
+"New Lucena","Iloilo",2019,181830.03
 "New Bataan","Compostela Valley",2013,195934.63
 "New Bataan","Compostela Valley",2015,2876637.1
 "New Corella","Davao del Norte",2013,1936402
@@ -3372,15 +3372,15 @@
 "Odiongan","Romblon",2018,3479363.75
 "Odiongan","Romblon",2019,0
 "Odiongan","Romblon",2020,0
-"Olongapo  City","Zambales",2020,2544398.1
-"Olongapo  City","Zambales",2013,16624689.01
-"Olongapo  City","Zambales",2015,3664779.93
-"Olongapo  City","Zambales",2016,9521414.21
-"Olongapo  City","Zambales",2017,8742290.52
-"Olongapo  City","Zambales",2018,7148505.98
-"Olongapo  City","Zambales",2010,12.1
-"Olongapo  City","Zambales",2011,0
-"Olongapo  City","Zambales",2012,0
+"Olongapo City","Zambales",2020,2544398.1
+"Olongapo City","Zambales",2013,16624689.01
+"Olongapo City","Zambales",2015,3664779.93
+"Olongapo City","Zambales",2016,9521414.21
+"Olongapo City","Zambales",2017,8742290.52
+"Olongapo City","Zambales",2018,7148505.98
+"Olongapo City","Zambales",2010,12.1
+"Olongapo City","Zambales",2011,0
+"Olongapo City","Zambales",2012,0
 "Olutanga","Zamboanga Sibugay",2010,9612377
 "Olutanga","Zamboanga Sibugay",2011,4852673.57
 "Olutanga","Zamboanga Sibugay",2012,0
@@ -3395,13 +3395,13 @@
 "Oras","Eastern Samar",2012,5602769.5
 "Oras","Eastern Samar",2020,270300
 "Orion","Bataan",2012,0
-"Ormoc  City","Leyte",2014,1167843.43
-"Ormoc  City","Leyte",2015,0
-"Ormoc  City","Leyte",2018,0
-"Oroquieta  City","Misamis Occidental",2019,19783258.28
-"Oroquieta  City","Misamis Occidental",2013,0
-"Oroquieta  City","Misamis Occidental",2017,2980946.92
-"Oroquieta  City","Misamis Occidental",2011,1486791.36
+"Ormoc City","Leyte",2014,1167843.43
+"Ormoc City","Leyte",2015,0
+"Ormoc City","Leyte",2018,0
+"Oroquieta City","Misamis Occidental",2019,19783258.28
+"Oroquieta City","Misamis Occidental",2013,0
+"Oroquieta City","Misamis Occidental",2017,2980946.92
+"Oroquieta City","Misamis Occidental",2011,1486791.36
 "Oslob","Cebu",2010,50000
 "Oslob","Cebu",2011,2048217
 "Oslob","Cebu",2012,2284680
@@ -3412,13 +3412,12 @@
 "Oton","Iloilo",2017,12840047.18
 "Oton","Iloilo",2018,2720189.19
 "Oton","Iloilo",2020,1.3
-"Ozamiz  City","Misamis Occidental",2017,23100000
-"Ozamiz  City","Misamis Occidental",2011,0
-"Ozamiz  City","Misamis Occidental",2013,0
-"Ozamiz  City","Misamis Occidental",2014,16393398.78
-"Ozamiz  City","Misamis Occidental",2015,1222334
+"Ozamiz City","Misamis Occidental",2017,23100000
+"Ozamiz City","Misamis Occidental",2011,0
+"Ozamiz City","Misamis Occidental",2013,0
+"Ozamiz City","Misamis Occidental",2014,16393398.78
+"Ozamiz City","Misamis Occidental",2015,1222334
 "Pres. Carlos P. Garcia","Bohol",2011,28249131.06
-"PLM",NA,2015,352.24
 "Padada","Davao del Sur",2012,131945.47
 "Padada","Davao del Sur",2013,0
 "Padada","Davao del Sur",2014,952512.14
@@ -3426,12 +3425,12 @@
 "Padada","Davao del Sur",2016,1236856.41
 "Padre Burgos","Quezon",2010,79100
 "Padre Burgos","Southern Leyte",2013,78482.42
-"Pagadian  City","Zamboanga del Sur",2013,905847.57
-"Pagadian  City","Zamboanga del Sur",2014,8426062.85
-"Pagadian  City","Zamboanga del Sur",2016,57395290.67
-"Pagadian  City","Zamboanga del Sur",2018,0
-"Pagadian  City","Zamboanga del Sur",2010,0
-"Pagadian  City","Zamboanga del Sur",2012,28568486.74
+"Pagadian City","Zamboanga del Sur",2013,905847.57
+"Pagadian City","Zamboanga del Sur",2014,8426062.85
+"Pagadian City","Zamboanga del Sur",2016,57395290.67
+"Pagadian City","Zamboanga del Sur",2018,0
+"Pagadian City","Zamboanga del Sur",2010,0
+"Pagadian City","Zamboanga del Sur",2012,28568486.74
 "Pagbilao","Quezon",2013,310870.79
 "Pagbilao","Quezon",2014,354723.1
 "Pagbilao","Quezon",2019,0
@@ -3461,14 +3460,14 @@
 "Palauig","Zambales",2013,1254304.69
 "Palauig","Zambales",2014,1578525.08
 "Palauig","Zambales",2015,3634932.92
-"Palayan  City","Nueva Ecija",2020,0
-"Palayan  City","Nueva Ecija",2010,100760
-"Palayan  City","Nueva Ecija",2012,286188
-"Palayan  City","Nueva Ecija",2013,5116186.52
-"Palayan  City","Nueva Ecija",2014,6150250.5
-"Palayan  City","Nueva Ecija",2016,18697738.96
-"Palayan  City","Nueva Ecija",2017,34414386.54
-"Palayan  City","Nueva Ecija",2018,7313550.25
+"Palayan City","Nueva Ecija",2020,0
+"Palayan City","Nueva Ecija",2010,100760
+"Palayan City","Nueva Ecija",2012,286188
+"Palayan City","Nueva Ecija",2013,5116186.52
+"Palayan City","Nueva Ecija",2014,6150250.5
+"Palayan City","Nueva Ecija",2016,18697738.96
+"Palayan City","Nueva Ecija",2017,34414386.54
+"Palayan City","Nueva Ecija",2018,7313550.25
 "Palayan City","Nueva Ecija",2019,340291.6
 "Palayan Cty","Nueva Ecija",2015,19026288.02
 "Palimbang","Sultan Kudarat",2013,5899883.15
@@ -3494,9 +3493,9 @@
 "Pamplona","Negros Oriental",2011,153980.62
 "Pamplona","Negros Oriental",2012,72273.39
 "Pamplona","Negros Oriental",2014,3042990
-"Pamplona",NA,2017,417517.45
-"Panabo  City","Davao del Norte",2013,3221661.38
-"Panabo  City","Davao del Norte",2014,3153794.16
+"Pamplona","Negros Oriental",2017,417517.45
+"Panabo City","Davao del Norte",2013,3221661.38
+"Panabo City","Davao del Norte",2014,3153794.16
 "Panaon","Misamis Occidental",2010,505614.67
 "Panaon","Misamis Occidental",2013,1473588.71
 "Panaon","Misamis Occidental",2015,2999187
@@ -3560,12 +3559,12 @@
 "Paombong","Bulacan",2015,99623
 "Paombong","Bulacan",2017,0
 "Paracelis","Mountain Province",2012,420722.29
-"Paranaque  City","Metro Manila",2020,39.88
-"Paranaque  City","Metro Manila",2011,167.71
-"Paranaque  City","Metro Manila",2014,0
-"Paranaque  City","Metro Manila",2015,44.59
-"Paranaque  City","Metro Manila",2016,11.5
-"Paranaque  City","Metro Manila",2017,0
+"Paranaque City","Metro Manila",2020,39.88
+"Paranaque City","Metro Manila",2011,167.71
+"Paranaque City","Metro Manila",2014,0
+"Paranaque City","Metro Manila",2015,44.59
+"Paranaque City","Metro Manila",2016,11.5
+"Paranaque City","Metro Manila",2017,0
 "Paranas","Samar",2012,258198.72
 "Parang","Maguindanao",2010,2113991.95
 "Parang","Maguindanao",2011,866494.76
@@ -3576,24 +3575,24 @@
 "Pasacao","Camarines Sur",2013,3618362.79
 "Pasacao","Camarines Sur",2018,5.96
 "Pasacao","Camarines Sur",2020,8.97
-"Pasay  City","Metro Manila",2020,76.72
-"Pasay  City","Metro Manila",2010,20.19
-"Pasay  City","Metro Manila",2014,0
-"Pasay  City","Metro Manila",2015,0
-"Pasay  City","Metro Manila",2016,38.63
-"Pasay  City","Metro Manila",2017,1
-"Pasig  City","Metro Manila",2010,62.57
-"Pasig  City","Metro Manila",2012,9.54
-"Pasig  City","Metro Manila",2013,21.04
-"Pasig  City","Metro Manila",2014,22.45
+"Pasay City","Metro Manila",2020,76.72
+"Pasay City","Metro Manila",2010,20.19
+"Pasay City","Metro Manila",2014,0
+"Pasay City","Metro Manila",2015,0
+"Pasay City","Metro Manila",2016,38.63
+"Pasay City","Metro Manila",2017,1
+"Pasig City","Metro Manila",2010,62.57
+"Pasig City","Metro Manila",2012,9.54
+"Pasig City","Metro Manila",2013,21.04
+"Pasig City","Metro Manila",2014,22.45
 "Pasil","Kalinga",2012,1198308.61
 "Pasil","Kalinga",2017,96420.49
-"Passi  City","Iloilo",2019,16.98
-"Passi  City","Iloilo",2020,3.54
-"Passi  City","Iloilo",2014,22464757.1
-"Passi  City","Iloilo",2015,7101454.76
-"Passi  City","Iloilo",2016,10000000
-"Passi  City","iloilo",2010,1613000
+"Passi City","Iloilo",2019,16.98
+"Passi City","Iloilo",2020,3.54
+"Passi City","Iloilo",2014,22464757.1
+"Passi City","Iloilo",2015,7101454.76
+"Passi City","Iloilo",2016,10000000
+"Passi City","iloilo",2010,1613000
 "Pastrana","Leyte",2013,1512038.56
 "Pastrana","Leyte",2014,318180
 "Pastrana","Leyte",2015,9513574.6
@@ -3619,7 +3618,7 @@
 "Payao","Zamboanga Sibugay",2014,9331218.94
 "Payao","Zamboanga Sibugay",2016,9757388.58
 "Payao","Zamboanga Sibugay",2019,5475648.49
-"Peñablanca","Cagayan",3,2889429.92
+"Peñablanca","Cagayan",2011,2889429.92
 "Peñablanca","Cagayan",2010,1804238.1
 "Peñablanca","Cagayan",2012,2835802.92
 "Peñablanca","Cagayan",2013,1.6
@@ -3713,7 +3712,7 @@
 "Pitogo","Zamboanga del Sur",2014,0
 "Pitogo","Zamboanga del Sur",2016,15573701.46
 "Pitogo","Zamboanga del Sur",2017,55720
-"Pitogo",NA,2019,185382.06
+"Pitogo","Zamboanga del Sur",2019,185382.06
 "Placer","Masbate",2010,4987928.42
 "Placer","Masbate",2011,11934531.3
 "Placer","Masbate",2012,10885486.28
@@ -3725,7 +3724,7 @@
 "Placer","Surigao del Norte",2015,1673248.33
 "Placer","Surigao del Norte",2016,11692648.03
 "Placer","Surigao del Norte",2017,0
-"Placer",NA,2020,3.79
+"Placer","Masbate",2020,3.79
 "Plaridel","Bulacan",2016,1034076.1
 "Plaridel","Bulacan",2017,1260980
 "Plaridel","Misamis Occidental",2014,1544549.48
@@ -3793,7 +3792,7 @@
 "Presentacion","Camarines Sur",2018,15.48
 "Pres. Carlos P. Garcia","Bohol",2020,3949631.71
 "Manuel Roxas","Zamboanga del Norte",2019,694821.36
-"President Roxas",NA,2019,0.11
+"President Roxas","Capiz",2019,0.11
 "President Roxas","Capiz",2015,5029356.57
 "President Roxas","Capiz",2016,122.72
 "President Roxas","Capiz",2017,191.25
@@ -3810,13 +3809,13 @@
 "Pudtol","Apayao",2011,1.38
 "Pudtol","Apayao",2012,1813871.29
 "Puerto Galera","Oriental Mindoro",2020,0
-"Puerto Princesa  City","Palawan",2020,326419053.71
-"Puerto Princesa  City","Palawan",2012,2954000
-"Puerto Princesa  City","Palawan",2015,0
-"Puerto Princesa  City","Palawan",2016,0
-"Puerto Princesa  City","Palawan",2019,138580802.18
-"Puerto Princesa  City","Palawan",2017,0
-"Puerto Princesa  City","Palawan",2018,193221647
+"Puerto Princesa City","Palawan",2020,326419053.71
+"Puerto Princesa City","Palawan",2012,2954000
+"Puerto Princesa City","Palawan",2015,0
+"Puerto Princesa City","Palawan",2016,0
+"Puerto Princesa City","Palawan",2019,138580802.18
+"Puerto Princesa City","Palawan",2017,0
+"Puerto Princesa City","Palawan",2018,193221647
 "Pugo","La Union",2019,17549546.15
 "Pulilan","Bulacan",2015,0
 "Pulupandan","Negros Occidental",2012,28098436.86
@@ -3829,7 +3828,6 @@
 "Pura","Tarlac",2011,15800
 "Pura","Tarlac",2012,0
 "Pura","Tarlac",2013,1235318.9
-"QCGH",NA,2010,538075
 "Quezon","Bukidnon",2016,1857279.19
 "Quezon","Bukidnon",2018,4.97
 "Quezon","Isabela",2017,1142910.8
@@ -3850,14 +3848,14 @@
 "Quezon","Palawan",2019,31017482.01
 "Quezon","Quezon",2014,3229
 "Quezon","Quezon",2015,79655
-"Quezon",NA,2019,101645.02
-"Quezon",NA,2020,3917230.71
-"Quezon  City","Metro Manila",2020,5.2
-"Quezon  City","Metro Manila",2011,210.79
-"Quezon  City","Metro Manila",2012,477.84
-"Quezon  City","Metro Manila",2013,316.29
-"Quezon  City","Metro Manila",2018,36.41
-"Quezon  City","Metro Manila",2019,215.77
+"Quezon","Bukidnon",2019,101645.02
+"Quezon","Isabela",2020,3917230.71
+"Quezon City","Metro Manila",2020,5.2
+"Quezon City","Metro Manila",2011,210.79
+"Quezon City","Metro Manila",2012,477.84
+"Quezon City","Metro Manila",2013,316.29
+"Quezon City","Metro Manila",2018,36.41
+"Quezon City","Metro Manila",2019,215.77
 "Quinapondan","Eastern Samar",2010,4397973.2
 "Quinapondan","Eastern Samar",2015,582760
 "Quinapondan","Eastern Samar",2017,630000
@@ -3977,13 +3975,13 @@
 "Roxas","Palawan",2018,9083879.13
 "Roxas","Palawan",2019,5711757.1
 "Roxas","Zamboanga del Norte",2013,4182902.61
-"Roxas",NA,2020,3951793.04
-"Roxas  City","Capiz",2012,644333476.97
-"Roxas  City","Capiz",2013,0
-"Roxas  City","Capiz",2015,7405464.51
-"Roxas  City","Capiz",2010,0
-"Roxas  City","Capiz",2011,488151153.33
-"SCM NE",NA,2011,957054203.11
+"Roxas","Isabela",2020,3951793.04
+"Roxas City","Capiz",2012,644333476.97
+"Roxas City","Capiz",2013,0
+"Roxas City","Capiz",2015,7405464.51
+"Roxas City","Capiz",2010,0
+"Roxas City","Capiz",2011,488151153.33
+"Science City of Muñoz","Nueva Ecija",2011,957054203.11
 "Sabangan","Mountain Province",2013,0
 "Sabangan","Mountain Province",2020,25711
 "Sablan","Benguet",2013,0
@@ -4006,11 +4004,11 @@
 "Sagada","Mountain Province",2012,0
 "Sagay","Camiguin",2013,0
 "Sagay","Camiguin",2014,1682873
-"Sagay  City","Negros Occidental",2013,41566411.01
-"Sagay  City","Negros Occidental",2015,14029430.06
-"Sagay  City","Negros Occidental",2016,1255927927.72
-"Sagay  City","Negros Occidental",2017,2735043.56
-"Sagay  City","Negros Occidental",2018,5135897.72
+"Sagay City","Negros Occidental",2013,41566411.01
+"Sagay City","Negros Occidental",2015,14029430.06
+"Sagay City","Negros Occidental",2016,1255927927.72
+"Sagay City","Negros Occidental",2017,2735043.56
+"Sagay City","Negros Occidental",2018,5135897.72
 "Sagbayan","Bohol",2010,2564000
 "Sagbayan","Bohol",2011,4056000
 "Sagbayan","Bohol",2012,0
@@ -4050,25 +4048,25 @@
 "Samal","Bataan",2018,7344648.7
 "Samboan","Cebu",2010,210083
 "Sampaloc","Quezon",2020,214227.36
-"San Agustin",NA,2020,0
-"San Andres",NA,2020,156240
+"San Agustin","Surigao del Sur",2020,0
+"San Andres","Quezon",2020,156240
 "San Benito","Surigao del Norte",2019,3073474.04
 "San Benito","Surigao del Norte",2020,2974703.84
-"San Carlos  City",NA,2019,2053771.77
+"San Carlos City","Negros Occidental",2019,2053771.77
 "San Dionisio","Iloilo",2019,379006.3
-"San Enrique",NA,2019,8111321.28
-"San Enrique",NA,2020,2.16
-"San Fernando",NA,2020,3501628.71
-"San Francisco",NA,2019,552414.14
-"San Francisco",NA,2020,16869892.79
-"San Jacinto",NA,2020,0
+"San Enrique","Negros Occidental",2019,8111321.28
+"San Enrique","Iloilo",2020,2.16
+"San Fernando","Romblon",2020,3501628.71
+"San Francisco","Southern Leyte",2019,552414.14
+"San Francisco","Quezon",2020,16869892.79
+"San Jacinto","Masbate",2020,0
 "San Jorge","Samar",2020,722037.87
-"San Juan",NA,2019,493596.06
-"San Juan  City","Metro Manila",2020,167.58
+"San Juan","Southern Leyte",2019,493596.06
+"San Juan City","Metro Manila",2020,167.58
 "San Leonardo","Nueva Ecija",2020,18514070.28
-"San Luis",NA,2019,8535690.41
-"San Pablo",NA,2019,151577.13
-"San Pedro  City","Laguna",2020,63383692.53
+"San Luis","Agusan del Sur",2019,8535690.41
+"San Pablo","Zamboanga del Sur",2019,151577.13
+"San Pedro City","Laguna",2020,63383692.53
 "San Ricardo","Southern Leyte",2019,1584627.04
 "San Agustin","Isabela",2011,20760309.78
 "San Agustin","Isabela",2014,24.94
@@ -4110,13 +4108,13 @@
 "San Benito","Surigao del Norte",2014,37476
 "San Benito","Surigao del Norte",2015,64432435.25
 "San Benito","Surigao del Norte",2018,1166037.47
-"San Carlos  City","Negros Occidental",2013,0
-"San Carlos  City","Negros Occidental",2015,2998541.65
-"San Carlos  City","Negros Occidental",2016,2424293.65
-"San Carlos  City","Pangasinan",2014,68750018.32
-"San Carlos  City","Pangasinan",2016,70095810.16
-"San Carlos  City","Pangasinan",2017,22780499.89
-"San Carlos  City","Pangasinan",2018,7537014.29
+"San Carlos City","Negros Occidental",2013,0
+"San Carlos City","Negros Occidental",2015,2998541.65
+"San Carlos City","Negros Occidental",2016,2424293.65
+"San Carlos City","Pangasinan",2014,68750018.32
+"San Carlos City","Pangasinan",2016,70095810.16
+"San Carlos City","Pangasinan",2017,22780499.89
+"San Carlos City","Pangasinan",2018,7537014.29
 "San Clemente","Tarlac",2012,315149.74
 "San Clemente","Tarlac",2013,152580
 "San Clemente","Tarlac",2015,668204
@@ -4139,7 +4137,7 @@
 "San Enrique","Negros Occidental",2016,7891685.5
 "San Enrique","Negros Occidental",2017,11245239.74
 "San Enrique","Negros Occidental",2018,5838387.53
-"San Enrique","Negros Occidental",20131,5457904.76
+"San Enrique","Negros Occidental",2013,5457904.76
 "San Esteban","Ilocos Sur",2012,36922
 "San Fabian","Pangasinan",2013,215725
 "San Fabian","Pangasinan",2016,419566
@@ -4166,14 +4164,14 @@
 "San Fernando","Romblon",2016,0
 "San Fernando","Romblon",2018,6573164.49
 "San Fernando","Romblon",2012,1345364.16
-"San Fernando  City","La Union",2010,2746757.78
-"San Fernando  City","Pampanga",2011,0
-"San Fernando  City","Pampanga",2012,0
-"San Fernando  City","Pampanga",2013,381948.5
-"San Fernando  City","Pampanga",2015,19952267.91
-"San Fernando  City","Pampanga",2016,19214276.72
-"San Fernando  City",NA,2010,40273273.69
-"San Fernando City",NA,2017,4500000
+"San Fernando City","La Union",2010,2746757.78
+"San Fernando City","Pampanga",2011,0
+"San Fernando City","Pampanga",2012,0
+"San Fernando City","Pampanga",2013,381948.5
+"San Fernando City","Pampanga",2015,19952267.91
+"San Fernando City","Pampanga",2016,19214276.72
+"San Fernando City","Pampanga",2010,40273273.69
+"San Fernando City","Pampanga",2017,4500000
 "San Francisco","Agusan del Sur",2010,21192550.36
 "San Francisco","Agusan del Sur",2011,19603879.55
 "San Francisco","Agusan del Sur",2012,0
@@ -4286,10 +4284,10 @@
 "San Jose","Tarlac",2016,0
 "San Jose","Tarlac",2018,441909
 "San Jose","Tarlac",2019,6305428.85
-"San Jose  City","Nueva Ecija",2010,732521
-"San Jose  City","Nueva Ecija",2012,0
-"San Jose  City","Nueva Ecija",2013,753280.54
-"San Jose  City","Nueva Ecija",2014,771602.6
+"San Jose City","Nueva Ecija",2010,732521
+"San Jose City","Nueva Ecija",2012,0
+"San Jose City","Nueva Ecija",2013,753280.54
+"San Jose City","Nueva Ecija",2014,771602.6
 "San Jose del Monte","Bulacan",2016,98300
 "San Jose del Monte","Bulacan",2012,1095926.23
 "San Jose de Buan","Samar",2013,67877852.54
@@ -4307,7 +4305,7 @@
 "San Juan","La Union",2016,521935
 "San Juan","Southern Leyte",2010,0
 "San Juan","Southern Leyte",2012,372242.26
-"San Juan  City","Metro Manila",2015,12.86
+"San Juan City","Metro Manila",2015,12.86
 "San Julian","Eastern Samar",2012,1583662.76
 "San Julian","Eastern Samar",2013,1045059.57
 "San Julian","Eastern Samar",2014,693497.57
@@ -4431,10 +4429,10 @@
 "San Pascual","Masbate",2018,1657798.24
 "San Pedro","Laguna",2010,19840268.04
 "San Pedro","Laguna",2012,29085696.8
-"San Pedro  City","Laguna",2015,0
-"San Pedro  City","Laguna",2016,0
-"San Pedro  City","Laguna",2018,0
-"San Pedro  City","Laguna",2019,0
+"San Pedro City","Laguna",2015,0
+"San Pedro City","Laguna",2016,0
+"San Pedro City","Laguna",2018,0
+"San Pedro City","Laguna",2019,0
 "San Policarpo","Eastern Samar",2010,0
 "San Policarpo","Eastern Samar",2013,0
 "San Policarpo","Eastern Samar",2012,405190
@@ -4502,10 +4500,10 @@
 "Santa","Ilocos Sur",2016,1018200.55
 "Santa","Ilocos Sur",2017,2411172.55
 "Santa","Ilocos Sur",2019,7759220.3
-"Santa Barbara",NA,2017,9600
-"Santa Barbara",NA,2020,0
-"Santa Maria",NA,2020,1650841.6
-"Santa Rosa  City","Laguna",2020,34165725.94
+"Santa Barbara","Iloilo",2017,9600
+"Santa Barbara","Iloilo",2020,0
+"Santa Maria","Isabela",2020,1650841.6
+"Santa Rosa City","Laguna",2020,34165725.94
 "Santa Fe","Cebu",2012,1000000
 "Santa Fe","Nueva Vizcaya",2012,920923.21
 "Santa Fe","Nueva Vizcaya",2013,483228.7
@@ -4527,15 +4525,15 @@
 "Santa Rosa","Nueva Ecija",2015,169855
 "Santa Rosa","Nueva Ecija",2016,70395
 "Santa Rosa","Nueva Ecija",2018,274075.12
-"Santa Rosa  City","Laguna",2011,2664536810.42
+"Santa Rosa City","Laguna",2011,2664536810.42
 "Santander","Cebu",2010,1476289.97
 "Santander","Cebu",2011,3294542.14
 "Santiago","Agusan del Norte",2012,239191
 "Santiago","Agusan del Norte",2018,519660
 "Santiago","Ilocos Sur",2012,180442.06
-"Santiago",NA,NA,95300
-"Santiago  City","Isabela",2015,2623614220.17
-"Santiago  City","Isabela",2016,0
+"Santiago","Agusan del Norte",2019,95300
+"Santiago City","Isabela",2015,2623614220.17
+"Santiago City","Isabela",2016,0
 "Sapad","Lanao del Norte",2018,0
 "Sapang Dalaga","Misamis Occidental",2019,10153311.72
 "Sapang Dalaga","Misamis Occidental",2013,0
@@ -4662,17 +4660,17 @@
 "Silang","Cavite",2015,13964679.75
 "Silang","Cavite",2016,426620.78
 "Silang","Cavite",2018,12052586.35
-"Silay  City","Negros Occidental",2019,19528995.46
-"Silay  City","Negros Occidental",2010,10459986.22
-"Silay  City","Negros Occidental",2011,17401853.31
-"Silay  City","Negros Occidental",2012,20698174.51
-"Silay  City","Negros Occidental",2013,40804291.42
-"Silay  City","Negros Occidental",2014,58616083.84
-"Silay  City","Negros Occidental",2017,2613606.89
+"Silay City","Negros Occidental",2019,19528995.46
+"Silay City","Negros Occidental",2010,10459986.22
+"Silay City","Negros Occidental",2011,17401853.31
+"Silay City","Negros Occidental",2012,20698174.51
+"Silay City","Negros Occidental",2013,40804291.42
+"Silay City","Negros Occidental",2014,58616083.84
+"Silay City","Negros Occidental",2017,2613606.89
 "Silvino Lobos","Northern Samar",2011,1959265.4
-"Silvino Lubos","Northern Samar",2012,1536263.12
-"Silvino Lubos","Northern Samar",2013,1217946.08
-"Silvino Lubos","Northern Samar",2017,0
+"Silvino Lobos","Northern Samar",2012,1536263.12
+"Silvino Lobos","Northern Samar",2013,1217946.08
+"Silvino Lobos","Northern Samar",2017,0
 "Simunul","Tawi-Tawi",2010,29006220.51
 "Sinacaban","Misamis Occidental",2013,604881.83
 "Sinacaban","Misamis Occidental",2014,925731.14
@@ -4697,9 +4695,9 @@
 "Siocon","Zamboanga del Norte",2013,8537400.26
 "Siocon","Zamboanga del Norte",2015,4612383.81
 "Siocon","Zamboanga del Norte",2016,0
-"Sipalay  City","Negros Occidental",2013,225410.36
-"Sipalay  City","Negros Occidental",2014,320804.58
-"Sipalay  City","Negros Occidental",2015,2230562.93
+"Sipalay City","Negros Occidental",2013,225410.36
+"Sipalay City","Negros Occidental",2014,320804.58
+"Sipalay City","Negros Occidental",2015,2230562.93
 "Sipocot","Camarines Sur",2010,315954.44
 "Sipocot","Camarines Sur",2011,0
 "Sipocot","Camarines Sur",2012,20751943.71
@@ -4744,16 +4742,16 @@
 "Sominot","Zamboanga del Sur",2013,0
 "Sominot","Zamboanga del Sur",2015,0
 "Sominot","Zamboanga del Sur",2017,0
-"Sorsogon  City","Sorsogon",2010,3459257.35
-"Sorsogon  City","Sorsogon",2013,0
-"Sorsogon  City","Sorsogon",2011,2313717.05
-"Sorsogon  City","Sorsogon",2018,20.8
+"Sorsogon City","Sorsogon",2010,3459257.35
+"Sorsogon City","Sorsogon",2013,0
+"Sorsogon City","Sorsogon",2011,2313717.05
+"Sorsogon City","Sorsogon",2018,20.8
 "South Upi","Maguindanao",2010,4403613.64
 "South Upi","Maguindanao",2011,4403613.64
 "Saint Bernard","Southern Leyte",2013,30247.63
 "Saint Bernard","Southern Leyte",2014,2790180.74
 "Saint Bernard","Southern Leyte",2016,0
-"Sta. Fe",NA,2019,1790325.91
+"Sta. Fe","Leyte",2019,1790325.91
 "Sta. Josefa","Agusan del Sur",2019,0
 "Sta. Josefa","Agusan del Sur",2020,643122.3
 "Sta. Magdalena","Sorsogon",2020,1.32
@@ -4828,7 +4826,7 @@
 "Santa Rosa City","Laguna",2014,73444978
 "Santa Rosa City","Laguna",2015,8581381.41
 "Santa Rosa City","Laguna",2018,428754
-"Sto. Nino",NA,2020,9139893.02
+"Cagayan","Sto. Niño",2020,9139893.02
 "Sto. Domingo","Ilocos Sur",2014,0
 "Sto. Domingo","Nueva Ecija",2010,1044309.82
 "Sto. Domingo","Nueva Ecija",2011,527019.19
@@ -4860,7 +4858,7 @@
 "Sto. Tomas","Davao del Norte",2011,18822813.73
 "Sto. Tomas","Davao del Norte",2013,3667849.95
 "Sto. Tomas","La Union",2015,1425624.59
-"Sto. Tomas  City","Batangas",2019,1399145.13
+"Sto. Tomas City","Batangas",2019,1399145.13
 "Sual","Pangasinan",2010,2813717.52
 "Sual","Pangasinan",2011,3580194.82
 "Sual","Pangasinan",2013,6812035.92
@@ -4879,7 +4877,7 @@
 "Sulat","Eastern Samar",2014,532649.07
 "Sulat","Eastern Samar",2015,970618.75
 "Sulat","Eastern Samar",2018,112115.88
-"Sulop",NA,2020,91549.96
+"Sulop","Davao del Sur",2020,91549.96
 "Sultan Dumalondong","Lanao del Sur",2020,0
 "Sultan Dumalondong","Lanao del Sur",2010,10480000
 "Sumilao","Bukidnon",2012,956065.12
@@ -4887,22 +4885,22 @@
 "Sumilao","Bukidnon",2018,207636
 "Surallah","South Cotabato",2010,111371556.33
 "Surallah","South Cotabato",2011,2400000
-"Surigao  City","Surigao del Norte",2020,50.49
-"Surigao  City","Surigao del Norte",2010,9766210.43
-"Surigao  City","Surigao del Norte",2012,5023838.46
-"Surigao  City","Surigao del Norte",2013,4598817.01
-"Surigao  City","Surigao del Norte",2014,66554812.91
-"Surigao  City","Surigao del Norte",2015,70804790.73
-"Surigao  City","Surigao del Norte",2017,9365326.19
-"Surigao  City","Surigao del Norte",2011,2813162.47
+"Surigao City","Surigao del Norte",2020,50.49
+"Surigao City","Surigao del Norte",2010,9766210.43
+"Surigao City","Surigao del Norte",2012,5023838.46
+"Surigao City","Surigao del Norte",2013,4598817.01
+"Surigao City","Surigao del Norte",2014,66554812.91
+"Surigao City","Surigao del Norte",2015,70804790.73
+"Surigao City","Surigao del Norte",2017,9365326.19
+"Surigao City","Surigao del Norte",2011,2813162.47
 "Suyo","Ilocos Sur",2010,110976.97
 "Taal","Batangas",2017,14863.65
 "Taal","Batangas",2018,700009.61
 "Taal","Batangas",2019,968968.23
 "Taal","Batangas",2020,8780066.23
-"Tabaco","Albay",2010,0
-"Tabaco  City","Albay",2012,517660.58
-"Tabaco  City","Albay",2013,5000000
+"Tabaco City","Albay",2010,0
+"Tabaco City","Albay",2012,517660.58
+"Tabaco City","Albay",2013,5000000
 "Tabaco City","Albay",2011,0
 "Tabango","Leyte",2010,1203177.43
 "Tabango","Leyte",2012,914143.55
@@ -4924,15 +4922,15 @@
 "Tabontabon","Leyte",2013,8321836.95
 "Tabontabon","Leyte",2016,9737491.26
 "Tabuelan","Cebu",2012,600000
-"Tabuk  City","Kalinga",2012,5056556
-"Tacloban  City","Leyte",2019,20290499.65
-"Tacloban  City","Leyte",2013,15784878.87
-"Tacloban  City","Leyte",2015,2455814.38
-"Tacloban  City","Leyte",2016,36.09
-"Tacloban  City","Leyte",2017,3.68
-"Tacloban  City","Leyte",2010,5.1
-"Tacloban  City","Leyte",2012,1968548.71
-"Tacloban  City","Leyte",2014,18934667.15
+"Tabuk City","Kalinga",2012,5056556
+"Tacloban City","Leyte",2019,20290499.65
+"Tacloban City","Leyte",2013,15784878.87
+"Tacloban City","Leyte",2015,2455814.38
+"Tacloban City","Leyte",2016,36.09
+"Tacloban City","Leyte",2017,3.68
+"Tacloban City","Leyte",2010,5.1
+"Tacloban City","Leyte",2012,1968548.71
+"Tacloban City","Leyte",2014,18934667.15
 "Tadian","Mountain Province",2010,0
 "Taft","Eastern Samar",2015,968380
 "Taganaan","Surigao del Norte",2010,0
@@ -4948,13 +4946,13 @@
 "Tagapul-an","Samar",2013,64694649.57
 "Tagapul-an","Samar",2020,17781214.39
 "Tagapul-an","Samar",2012,59587673.88
-"Tagaytay  City","Cavite",2014,6805413.72
-"Tagaytay  City","Cavite",2011,142637321.57
-"Tagbilaran  City","Bohol",2019,18876756.63
-"Tagbilaran  City","Bohol",2020,217073507.78
-"Tagbilaran  City","Bohol",2010,56980868.09
-"Tagbilaran  City","Bohol",2013,37559807.77
-"Tagbilaran  City","Bohol",2011,54192290.4
+"Tagaytay City","Cavite",2014,6805413.72
+"Tagaytay City","Cavite",2011,142637321.57
+"Tagbilaran City","Bohol",2019,18876756.63
+"Tagbilaran City","Bohol",2020,217073507.78
+"Tagbilaran City","Bohol",2010,56980868.09
+"Tagbilaran City","Bohol",2013,37559807.77
+"Tagbilaran City","Bohol",2011,54192290.4
 "Tagbina","Surigao del Sur",2011,152421.26
 "Tagbina","Surigao del Sur",2013,22241338.37
 "Tagbina","Surigao del Sur",2016,12486000
@@ -4979,14 +4977,14 @@
 "Tagoloan","Misamis Oriental",2014,115264216.01
 "Tagoloan","Misamis Oriental",2015,12745953.42
 "Tagoloan","Misamis Oriental",2018,5623817
-"Tagoloan",NA,2019,0
-"Tagoloan",NA,2020,0
+"Tagoloan","Lanao del Norte",2019,0
+"Tagoloan","Lanao del Norte",2020,0
 "Tagudin","Ilocos Sur",2010,583189.49
-"Taguig  City","Metro Manila",2011,33.84
-"Taguig  City","Metro Manila",2013,15054.85
-"Taguig  City","Metro Manila",2014,539.03
-"Tagum  City","Davao del Norte",2010,0
-"Tagum  City","Davao del Norte",2011,23218690.7
+"Taguig City","Metro Manila",2011,33.84
+"Taguig City","Metro Manila",2013,15054.85
+"Taguig City","Metro Manila",2014,539.03
+"Tagum City","Davao del Norte",2010,0
+"Tagum City","Davao del Norte",2011,23218690.7
 "Talacogon","Agusan del Sur",2010,3560020.9
 "Talacogon","Agusan del Sur",2015,0
 "Talacogon","Agusan del Sur",2016,0
@@ -5018,13 +5016,13 @@
 "Talisay","Batangas",2017,1813863.81
 "Talisay","Batangas",2019,0
 "Talisay","Camarines Norte",2010,6825466.4
-"Talisay  City","Cebu",2015,1217700
-"Talisay  City","Negros Occidental",2010,13744557.03
-"Talisay  City","Negros Occidental",2011,17846985.83
-"Talisay  City","Negros Occidental",2012,21489811.82
-"Talisay  City","Negros Occidental",2013,26854135.16
-"Talisay  City","Negros Occidental",2014,9433821.73
-"Talisay  City","Negros Occidental",2016,19048737.74
+"Talisay City","Cebu",2015,1217700
+"Talisay City","Negros Occidental",2010,13744557.03
+"Talisay City","Negros Occidental",2011,17846985.83
+"Talisay City","Negros Occidental",2012,21489811.82
+"Talisay City","Negros Occidental",2013,26854135.16
+"Talisay City","Negros Occidental",2014,9433821.73
+"Talisay City","Negros Occidental",2016,19048737.74
 "Talisayan","Misamis Oriental",2011,183615.67
 "Talisayan","Misamis Oriental",2017,0
 "Talisayan","Misamis Oriental",2019,0
@@ -5054,27 +5052,27 @@
 "Tampilisan","Zamboanga del Norte",2018,1355515.36
 "Tanauan","Leyte",2016,2881759.36
 "Tanauan","Leyte",2019,4219452
-"Tanauan  City","Batangas",2015,1987646
-"Tanauan  City","Batangas",2019,0
+"Tanauan City","Batangas",2015,1987646
+"Tanauan City","Batangas",2019,0
 "Tanay","Rizal",2010,285823.98
 "Tanay","Rizal",2011,0
 "Tanay","Rizal",2012,1253113.46
 "Tanay","Rizal",2015,390796.88
 "Tandag","Surigao del Sur",2010,3642884.41
-"Tandag  City","Surigao del Sur",2019,0
-"Tandag  City","Surigao del Sur",2011,6624674.21
-"Tandag  City","Surigao del Sur",2012,15586283.44
+"Tandag City","Surigao del Sur",2019,0
+"Tandag City","Surigao del Sur",2011,6624674.21
+"Tandag City","Surigao del Sur",2012,15586283.44
 "Tangalan","Aklan",2019,213150.14
 "Tangalan","Aklan",2020,0
-"Tangub  City","Misamis Occidental",2012,0
-"Tangub  City","Misamis Occidental",2013,160070.27
-"Tangub  City","Misamis Occidental",2014,738237.02
-"Tangub  City","Misamis Occidental",2016,666127171
-"Tangub  City","Misamis Occidental",2018,78741280
-"Tanjay  City","Negros Oriental",2010,0
-"Tanjay  City","Negros Oriental",2011,0
-"Tanjay  City","Negros Oriental",2012,7142708
-"Tanjay  City","Negros Oriental",2014,605446.81
+"Tangub City","Misamis Occidental",2012,0
+"Tangub City","Misamis Occidental",2013,160070.27
+"Tangub City","Misamis Occidental",2014,738237.02
+"Tangub City","Misamis Occidental",2016,666127171
+"Tangub City","Misamis Occidental",2018,78741280
+"Tanjay City","Negros Oriental",2010,0
+"Tanjay City","Negros Oriental",2011,0
+"Tanjay City","Negros Oriental",2012,7142708
+"Tanjay City","Negros Oriental",2014,605446.81
 "Tantangan","South Cotabato",2011,10021059.24
 "Tantangan","South Cotabato",2013,4587600.65
 "Tantangan","South Cotabato",2014,3387024.01
@@ -5090,15 +5088,15 @@
 "Tapaz","Capiz",2018,796832.32
 "Tapaz","Capiz",2019,1160542.95
 "Tapaz","Capiz",2020,833472.68
-"Tarlac  City","Tarlac",2020,0
-"Tarlac  City","Tarlac",2011,192.42
-"Tarlac  City","Tarlac",2012,0
-"Tarlac  City","Tarlac",2015,65921829.61
-"Tarlac  City","Tarlac",2016,43451194.03
-"Tarlac  City","Tarlac",2018,0
-"Tarlac  City","Tarlac",2019,0
-"Tarlac  City","Tarlac",2013,0
-"Tarlac  City","Tarlac",2014,12665057.95
+"Tarlac City","Tarlac",2020,0
+"Tarlac City","Tarlac",2011,192.42
+"Tarlac City","Tarlac",2012,0
+"Tarlac City","Tarlac",2015,65921829.61
+"Tarlac City","Tarlac",2016,43451194.03
+"Tarlac City","Tarlac",2018,0
+"Tarlac City","Tarlac",2019,0
+"Tarlac City","Tarlac",2013,0
+"Tarlac City","Tarlac",2014,12665057.95
 "Tarragona","Davao Oriental",2014,4280542.05
 "Tarragona","Davao Oriental",2016,10158641.13
 "Tarragona","Davao Oriental",2018,3592324.06
@@ -5194,12 +5192,12 @@
 "Toboso","Negros Occidental",2018,2611110
 "Toboso","Negros Occidental",2019,845133.28
 "Toboso","Negros Occidental",2020,1022899.28
-"Toledo  City","Cebu",2011,83086688.43
-"Toledo  City","Cebu",2013,4810189.7
-"Toledo  City","Cebu",2014,210373391.43
-"Toledo  City","Cebu",2015,507218194.6
-"Toledo  City","Cebu",2016,1992400
-"Toledo  City","Cebu",2010,50798139.1
+"Toledo City","Cebu",2011,83086688.43
+"Toledo City","Cebu",2013,4810189.7
+"Toledo City","Cebu",2014,210373391.43
+"Toledo City","Cebu",2015,507218194.6
+"Toledo City","Cebu",2016,1992400
+"Toledo City","Cebu",2010,50798139.1
 "Tolosa","Leyte",2011,590079.67
 "Tolosa","Leyte",2012,986788.08
 "Tolosa","Leyte",2014,3813678.83
@@ -5210,11 +5208,11 @@
 "Tomas Oppus","Southern Leyte",2012,156653
 "Torrijos","Marinduque",2010,0
 "Torrijos","Marinduque",2011,0
-"Trece Martires  City","Cavite",2014,242959.45
-"Trece Martires  City","Cavite",2015,2144000
-"Trece Martires  City","Cavite",2016,1905448.52
-"Trece Martires  City","Cavite",2011,0
-"Trece Martires  City","Cavite",2013,438335.29
+"Trece Martires City","Cavite",2014,242959.45
+"Trece Martires City","Cavite",2015,2144000
+"Trece Martires City","Cavite",2016,1905448.52
+"Trece Martires City","Cavite",2011,0
+"Trece Martires City","Cavite",2013,438335.29
 "Trento","Agusan del Sur",2012,0
 "Trento","Agusan del Sur",2013,0
 "Trento","Agusan del Sur",2014,0
@@ -5278,10 +5276,10 @@
 "Tudela","Misamis Occidental",2015,764167
 "Tugaya","Lanao del Sur",2015,0
 "Tugaya","Lanao del Sur",2017,0
-"Tuguegarao  City","Cagayan",2013,7735917.75
-"Tuguegarao  City","Cagayan",2016,0
-"Tuguegarao  City","Cagayan",2010,5765676.36
-"Tuguegarao  City","Cagayan",2012,8601530.01
+"Tuguegarao City","Cagayan",2013,7735917.75
+"Tuguegarao City","Cagayan",2016,0
+"Tuguegarao City","Cagayan",2010,5765676.36
+"Tuguegarao City","Cagayan",2012,8601530.01
 "Tukuran","Zamboanga del Sur",2010,2918933.66
 "Tukuran","Zamboanga del Sur",2011,1625370.19
 "Tukuran","Zamboanga del Sur",2012,0
@@ -5333,15 +5331,15 @@
 "Urbiztondo","Pangasinan",2016,0
 "Urbiztondo","Pangasinan",2017,0
 "Urbiztondo","Pangasinan",2018,756295.64
-"Urdaneta  City","Pangasinan",2017,7757905.78
-"Urdaneta  City","Pangasinan",2012,1566437.62
-"Urdaneta  City","Pangasinan",2013,8944023.87
-"Urdaneta  City","Pangasinan",2015,2454793.06
-"Urdaneta  City","Pangasinan",2011,5650345.73
+"Urdaneta City","Pangasinan",2017,7757905.78
+"Urdaneta City","Pangasinan",2012,1566437.62
+"Urdaneta City","Pangasinan",2013,8944023.87
+"Urdaneta City","Pangasinan",2015,2454793.06
+"Urdaneta City","Pangasinan",2011,5650345.73
 "Uson","Masbate",2013,1628030
 "Uson","Masbate",2018,4.77
 "Uson","Masbate",2020,2.45
-"Uyugan","Batanes",20,353950.21
+"Uyugan","Batanes",2017,353950.21
 "Uyugan","Batanes",2015,189881.2
 "Uyugan","Batanes",2016,288783.6
 "Uyugan","Batanes",2020,119076.6
@@ -5350,9 +5348,9 @@
 "Valencia","Negros Oriental",2010,300002.67
 "Valencia","Negros Oriental",2016,12765440.8
 "Valencia","Negros Oriental",2018,2594416.37
-"Valencia  City","Bukidnon",2017,0
-"Valencia  City","Bukidnon",2015,32249012.07
-"Valenzuela  City","Metro Manila",2010,28.71
+"Valencia City","Bukidnon",2017,0
+"Valencia City","Bukidnon",2015,32249012.07
+"Valenzuela City","Metro Manila",2010,28.71
 "Valladolid","Negros Occidental",2013,0
 "Valladolid","Negros Occidental",2014,7033511.14
 "Valladolid","Negros Occidental",2015,0
@@ -5380,19 +5378,19 @@
 "Victoria","Tarlac",2011,3811643.47
 "Victoria","Tarlac",2012,0
 "Victoria","Tarlac",2016,0
-"Victorias  City","Negros Occidental",2019,139756100.29
-"Victorias  City","Negros Occidental",2020,1396577.7
-"Victorias  City","Negros Occidental",2013,16107439.13
-"Victorias  City","Negros Occidental",2014,33378865.43
-"Victorias  City","Negros Occidental",2015,24283893.34
-"Victorias  City","Negros Occidental",2016,561163514.44
-"Victorias  City","Negros Occidental",2017,662841435.78
-"Victorias  City","Negros Occidental",2018,443525041.26
+"Victorias City","Negros Occidental",2019,139756100.29
+"Victorias City","Negros Occidental",2020,1396577.7
+"Victorias City","Negros Occidental",2013,16107439.13
+"Victorias City","Negros Occidental",2014,33378865.43
+"Victorias City","Negros Occidental",2015,24283893.34
+"Victorias City","Negros Occidental",2016,561163514.44
+"Victorias City","Negros Occidental",2017,662841435.78
+"Victorias City","Negros Occidental",2018,443525041.26
 "Viga","Catanduanes",2010,449157.57
 "Viga","Catanduanes",2012,1344158.34
 "Viga","Catanduanes",2013,201239.17
-"Vigan  City","Ilocos Sur",2010,2341548.53
-"Vigan  City","Ilocos Sur",2012,37500
+"Vigan City","Ilocos Sur",2010,2341548.53
+"Vigan City","Ilocos Sur",2012,37500
 "Villaba","Leyte",2010,3360359.16
 "Villaba","Leyte",2015,5197090.33
 "Villanueva","Misamis Oriental",2013,3064538.11
@@ -5422,9 +5420,9 @@
 "Virac","Catanduanes",2020,395010.5
 "Wao","Lanao del Sur",2015,3939194.1
 "Wao","Lanao del Sur",2019,967493.5
-"Zamboanga  City","Zamboanga del Sur",2015,45.18
-"Zamboanga  City","Zamboanga del Sur",2011,10668745.91
-"Zamboanga  City","Zamboanga del Sur",2013,33069067.47
+"Zamboanga City","Zamboanga del Sur",2015,45.18
+"Zamboanga City","Zamboanga del Sur",2011,10668745.91
+"Zamboanga City","Zamboanga del Sur",2013,33069067.47
 "Zamboanguita","Negros Oriental",2019,200192.71
 "Zaragoza","Nueva Ecija",2010,1007296.7
 "Zaragoza","Nueva Ecija",2012,740958.7
@@ -5438,4 +5436,3 @@
 "Zarraga","Iloilo",2016,600720.77
 "Abra de Ilog","Occidental Mindoro",2012,761459.76
 "Caraga","Davao Oriental",2012,138425123.38
-NA,NA,2019,95.25
