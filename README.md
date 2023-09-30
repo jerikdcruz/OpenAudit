@@ -6,11 +6,6 @@ This repository contains the beta version of OpenAudit, an open data initiative 
 
 We thank the Philippine government's [Commission on Audit (COA)](https://www.coa.gov.ph/) for sharing their archive of audit reports that made this project possible, as well as [MIT GOV/LAB](https://mitgovlab.org/) and the [MIT Political Methodology Lab](https://pmlab.mit.edu/) for their financial support.
 
-![Story](Images/GovLab_story.png)
-
-Read this MIT GOV/LAB [story](https://mitgovlab.org/news/unearthing-the-hidden-stories-of-budgets-and-audit-reports/) to learn more about the context of the project's development.
-
-
 ## Background and Context
 
 In many developing democracies around the world, government audit institutions regularly publish audit and financial reports that track government bodies’ decisions in raising, spending, and managing public resources on behalf of their citizens. These publicly-available reports contain data of immense value to governance researchers and ordinary citizens; they potentially offer ways to track government decisions, processes, and behaviors related to corruption, accountability, and state capacity at levels of detail currently unavailable in commonly-used governance indicators (e.g. Transparency International's Corruption Perception Index and the World Bank's World Governance Indicators). Until the present, however, these reports generally remain underused by academics, policy researchers, and the general public alike. 
@@ -55,6 +50,12 @@ Over the next few months, we intend to expand on this beta-version repository in
 * *Showcasing potential uses of dataset:* we will provide additional examples and replication materials of how the data can be used by researchers. Latter examples are likely to be drawn from prospective collaborations with academic and policy researchers, to showcase the project's intellectual and practical merit
 
 Over the course of 2024, we plan to develop a dedicated website for the dataset which will be housed with the Ateneo School of Government, and to engage in conversations to scale up the project's scope beyond the Philippines. 
+
+## More about the Project
+
+Read this MIT GOV/LAB [story](https://mitgovlab.org/news/unearthing-the-hidden-stories-of-budgets-and-audit-reports/) to learn more about the project's development.
+
+![Story](Images/GovLab_story.png)
 
 ## Licensing
 
