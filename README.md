@@ -30,7 +30,7 @@ We include the following files in this repository's beta version:
 * `unliquidata.csv` is the beta version processed data that extracts recorded amounts of anomalous transactions based on unliquidated cash transfers. This dataset will be refined progressively along with the other variables in the upcoming weeks
 * `extraction1.R` is the R script for extracting this data from the audit reports; as with the `.csv` file, this will be progressively updated. Rerunning requires all the individual nested raw executive summaries to be unnested onto one level in a single folder
 * `Topicmodel1.R` is the R script for running the topic proportion plot showcased in the work-in-progress as well as in other summary material of the initiative, based on an LDA Topic Model (k = 25). More NLP-related code will be shared as these are developed for purposes of the project
-* `UPCOMING` is a short methodological note and workflow on how the executive summaries were processed and the measures created
+* `Setup.md` provides access to the folder of unnested executive summaries that was used for extracting the amounts of unliquidated cash advances in the dataset
 
 ## Project Team
 
