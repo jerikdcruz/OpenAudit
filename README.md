@@ -6,7 +6,7 @@ This repository contains the beta version of OpenAudit, an open data initiative 
 
 We thank the Philippine government's [Commission on Audit (COA)](https://www.coa.gov.ph/) for sharing their archive of audit reports that made this project possible, as well as [MIT GOV/LAB](https://mitgovlab.org/) and the [MIT Political Methodology Lab](https://pmlab.mit.edu/) for their financial support.
 
-![Story](Images/GovLab story.png)
+![Story](Images/GovLab_story.png)
 
 Read this MIT GOV/LAB [story](https://mitgovlab.org/news/unearthing-the-hidden-stories-of-budgets-and-audit-reports/) to learn more about the context of the project's development.
 
